@@ -17,8 +17,11 @@
 
 <a id="logo" href="/index.html"><img src="/img/logo.png" /></a>
 <a id="title" href="index.html"><img src="title.png" onerror="this.onerror=null;this.src='/img/blank.png';" /></a>
-<a id="img1" href="#"><img src="1.jpg" onerror="this.onerror=null;this.src='/img/blank.png';" /></a>
-<a id="img2" href="#"><img src="2.jpg" onerror="this.onerror=null;this.src='/img/blank.png';" /></a>
+<a id="img1" onclick="lightbox('img1')"><img src="1.jpg" onerror="this.onerror=null;this.src='/img/blank.png';" style="opacity: {{ page.image-1-opacity }};" /></a>
+<a id="img2" onclick="lightbox('img2')"><img src="2.jpg" onerror="this.onerror=null;this.src='/img/blank.png';" style="opacity: {{ page.image-2-opacity }};" /></a>
+<div id="placeholder"></div>
+{% if page.youtube %}<a id="youtube" href="#" onclick="lightbox('youtube')"><img src="http://img.youtube.com/vi/{{ page.youtube }}/maxresdefault.jpg" style="opacity: {{ page.youtube-opacity }};" /></a>{% endif %}
+
 
 <div id="page"><div id="innerpage"><div id="innerinnerpage" class="page1">
 
@@ -29,7 +32,20 @@
 <a id="leesverder" href="#" onclick="nextpage()">lees verder</a>
 <script>$('#leesverder').css('opacity','0');</script>
 
+
+<table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td><img id="lb_img1" src="1.jpg" onerror="this.onerror=null;this.src='/img/blank.png';" /><img id="lb_img2" src="2.jpg" onerror="this.onerror=null;this.src='/img/blank.png';" /><iframe id="lb_youtube" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe></td></tr></table>
+
+
 <script>
+function lightbox(el) {
+	$('#lightbox').css('z-index','99');
+	$('#lb_img1').hide();
+	$('#lb_img2').hide();
+	$('#lb_youtube').hide();
+	$('#lightbox').addClass('visible');
+	$('#lb_'+el).show();
+	if(el=='youtube') $('#lb_youtube').attr('src','https://www.youtube.com/embed/{{ page.youtube }}?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1');
+}
 function checkpaging() {
 	$('#innerinnerpage').append('<div>&nbsp;</div>');
 	var p1 = $('#innerinnerpage > *:last-child').offset();
