@@ -1,0 +1,111 @@
+* {margin: 0; padding: 0;}
+body, html {height: 100%;}
+body {
+	font-family: serif; 
+	font-size: 14px; 
+	line-height: 1.4em;
+	background: url('/img/bg.jpg') left top;
+	background-size: cover;
+	color: #3d3d3d;
+}
+a {color: #3d3d3d;}
+#pagenumber, #menutoggler, #slogan, #vorige, #volgende, #leesverder {font-family: sans-serif; font-size: 11px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; z-index: 50;}
+#menutoggler a {text-decoration: none; color: #3d3d3d;}
+#vorige a, #volgende a {color: #c4252a; text-decoration: none; border-bottom: 1px solid #c4252a; padding-left: 2px;}
+a img {border: 0;}
+img {display: block;}
+
+#pagenumber {position: absolute; bottom: 30px; right: 30px;}
+#menutoggler {position: absolute; top: 30px; left: 30px;}
+#slogan {position: absolute; bottom: 30px; left: 30px;}
+#title {position: absolute; top: 12vh; left: calc(-20px + 20vw); z-index: 50;}
+#title img {width: 200px; }
+#vorige {position: absolute; top: calc(50% - 10px); left: -15px; width: 100px; text-align: center;
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
+#volgende {position: absolute; top: calc(50% - 10px); right: -15px; width: 100px; text-align: center;
+    -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+    -ms-transform-origin: 50% 50%; /* IE 9 */
+    -webkit-transform-origin: 50% 50%; /* Chrome, Safari, Opera */
+    transform-origin: 50% 50%;
+}
+#logo {position: absolute; bottom: 20vh; left: 7.5vw; z-index: 50;}
+#logo img {width: 300px;}
+#img1 {position: absolute; top: 20vh; left: calc(100px + 0vw); z-index: 0; background: white;
+    -ms-transform: rotate(-1deg); /* IE 9 */
+    -webkit-transform: rotate(-1deg); /* Chrome, Safari, Opera */
+    transform: rotate(-1deg);
+    -ms-transform-origin: 50% 50%; /* IE 9 */
+    -webkit-transform-origin: 50% 50%; /* Chrome, Safari, Opera */
+    transform-origin: 50% 50%;
+}
+#img1 img {max-width: 20vw; opacity: 0.7;}
+#img2 {position: absolute; bottom: 9.5vh; right: calc(-200px + 25vw); z-index: 0; background: white;
+    -ms-transform: rotate(1deg); /* IE 9 */
+    -webkit-transform: rotate(1deg); /* Chrome, Safari, Opera */
+    transform: rotate(1deg);
+    -ms-transform-origin: 50% 50%; /* IE 9 */
+    -webkit-transform-origin: 50% 50%; /* Chrome, Safari, Opera */
+    transform-origin: 50% 50%;
+}
+#img2 img {max-width: 30vw; opacity: 0.7;}
+
+#img1 img, #img2 img {
+    filter: url('/js/filters.svg#grayscale'); /* Firefox 3.5+ */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(1); /* Webkit Nightlies, Google Chrome Canary and Microsoft Edge*/
+  -webkit-transition: filter .2s ease-in-out, -webkit-filter .2s ease-in-out, opacity .2s ease-in-out;
+  -moz-transition: filter .2s ease-in-out, -webkit-filter .2s ease-in-out, opacity .2s ease-in-out;
+  -o-transition: filter .2s ease-in-out, -webkit-filter .2s ease-in-out, opacity .2s ease-in-out;
+  transition: filter .2s ease-in-out, -webkit-filter .2s ease-in-out, opacity .2s ease-in-out;
+}
+#img1 img:hover, #img2 img:hover {
+    filter: none; /* Applies to FF + IE */
+    -webkit-filter: grayscale(0);
+    opacity: 1;
+}
+
+#page {height: 90vh; margin: 5vh 0; width: 65vh; background: rgba(255,255,255,0.95); position: absolute; top: 0; z-index: 1; left: calc(150px + 20vw); font-size: 1.6vh; line-height: 2.1vh;}
+#innerpage {margin: 7.5vh 7.5vh; height: calc(75vh); overflow: hidden;}
+#innerinnerpage {
+    -webkit-column-width: 50vh; /* Chrome, Safari, Opera */
+    column-width: 50vh;
+    height: calc(74vh);
+    position: relative;
+    left: 0px;
+    width: auto;
+    -webkit-column-gap: 0px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 0px; /* Firefox */
+    column-gap: 0px;
+
+  -webkit-transition: left .3s ease-in-out;
+  -moz-transition: left .3s ease-in-out;
+  -o-transition: left .3s ease-in-out;
+  transition: left .3s ease-in-out;
+
+}
+#page p {margin-bottom: 1.4em;}
+#innerinnerpage.page1 {left: 0vh;}
+#innerinnerpage.page2 {left: -50vh;}
+#innerinnerpage.page3 {left: -100vh;}
+#innerinnerpage.page4 {left: -150vh;}
+#innerinnerpage.page5 {left: -200vh;}
+#innerinnerpage.page6 {left: -250vh;}
+#leesverder {
+    white-space: nowrap; 
+    text-decoration: none; 
+    left: calc(150px + 20vw + 65vh); 
+    bottom: 8vh; position: absolute; 
+    background: #c4252a; 
+    color: #eee; 
+    padding: 1vh 2vh; 
+    display: block; 
+    font-size: 1.3vh; 
+    line-height: 1.8vh; 
+    letter-spacing: .3vh;
+    margin-left: -12vh;
+}
