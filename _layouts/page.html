@@ -71,7 +71,7 @@ function checkpaging() {
 	var p2 = $('#innerpage').offset();
 	if(p1.left<(p2.left+$('#innerinnerpage').width())) {
 		$('#leesverder').remove();
-		console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()));
+		console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()+50));
 	}
 	else $('#leesverder').css('opacity','1');
 	$('#innerinnerpage > *:last-child').remove();
@@ -89,7 +89,7 @@ function nextpage() {
 		if($('#innerinnerpage').hasClass('page2')) $('#innerinnerpage').addClass('page3');
 		if($('#innerinnerpage').hasClass('page1')) $('#innerinnerpage').addClass('page2');	
 	}
-	if(p1.left<(p2.left+$('#innerinnerpage').width())) {
+	if(p1.left<(p2.left+$('#innerinnerpage').width()+50)) {
 		$('#leesverder').remove();
 	}
 	//console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()+50));
