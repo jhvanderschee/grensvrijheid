@@ -1,9 +1,9 @@
 ---
 title: 'Alleen - jezelf zijn'
 youtube: 
-    - youtube-id: 'plXTJ8kWiik'
-      youtube-opacity: 0.5
-      max-res: false
+    id: 'plXTJ8kWiik'
+    opacity: 0.5
+    max-res: false
 images:
 ---
 
