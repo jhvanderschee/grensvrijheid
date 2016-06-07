@@ -1,11 +1,8 @@
 ---
 title: test
 ---
-<br /><br /><br /><br />
 
-<img src="img/logo.png" style="width: 300px; max-width: 100%;" />
-
-<br /><br /><br /><br />
+L.S.
 
 40 jaar vrijzinnig jongerenwerk doen is zoeken naar vrijheid. Hoe kan je de vrijheid van jongeren zo optimaal mogelijk maken zodat hun verantwoordelijkheid wordt getriggerd? En waar liggen de grenzen van die vrijheid?
 
