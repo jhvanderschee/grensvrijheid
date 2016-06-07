@@ -3,6 +3,7 @@ title: '24-uurs dienst'
 youtube: 
     - youtube-id: '0a-ettfPJok'
       youtube-opacity: 0.5
+      max-res: true
 images:
     - image: 1.jpg
       image-opacity: 0.7
