@@ -20,8 +20,7 @@ Ik pleit er niet voor om af te zien van elk streven om Nr. 1 te worden, maar ik 
 
 Maar hoe is het dan met de mensen die jij beschrijft? Die zijn niet bezig om nummer 1 te worden maar alleen maar om daar op te lijken. Heb je wel eens goed in de Spiegel gekeken? Ik bedoel niet goed gekeken of je haar wel goed zat, maar nauwkeurig wat je ziet… 
 
-Allereerst is links en rechts al omgedraaid, de kleuren zijn een beetje anders, er zit een kleine vertekening in het beeld, enz.  Je ziet er eigenlijk wel anders uit dan je in je verbeelding ziet… 
-In de natuurkundeles heb je het ook al geleerd, dat het beeld niet werkelijkheid is, maar ‘virtueel’, het líjkt de werkelijkheid. 
+Allereerst is links en rechts al omgedraaid, de kleuren zijn een beetje anders, er zit een kleine vertekening in het beeld, enz.  Je ziet er eigenlijk wel anders uit dan je in je verbeelding ziet… In de natuurkundeles heb je het ook al geleerd, dat het beeld niet werkelijkheid is, maar ‘virtueel’, het líjkt de werkelijkheid. 
 
 Je kan ook met spiegels spelen, zoals met lachspiegels of met one-way spiegels; jij ziet de ander achter de spiegel niet die jou wel ziet. Je hebt ook spiegels die èn spiegelen èn waar je ook nog de wereld er achter kunt waarnemen.
 
