@@ -1,5 +1,5 @@
 ---
-title: '24-uurs dienst'
+title: 'Alleen - jezelf zijn'
 youtube: 'plXTJ8kWiik'
 youtube-opacity: 0.5
 image-1-opacity: 0.7
