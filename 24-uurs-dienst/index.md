@@ -1,5 +1,6 @@
 ---
 title: '24-uurs dienst'
+image: title.png
 youtube: 
     id: '0a-ettfPJok'
     opacity: 0.5
