@@ -1,5 +1,5 @@
 ---
-title: test
+title: Home
 ---
 
 <div style="height: 49vh; padding: 25vh 0 0 5vh;"><img src="img/logo.png" style="display: block; width: 35vh; break-after: column;" /></div>
