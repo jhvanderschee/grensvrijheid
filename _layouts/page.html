@@ -77,7 +77,7 @@ function checkpaging() {
 	$('#innerinnerpage > *:last-child').remove();
 }
 function nextpage() {
-	$('#innerinnerpage').append('<div style="position: absolute;">&nbsp;</div>');
+	$('#innerinnerpage').append('<div style="height: 1px"></div>');
 	var p1 = $('#innerinnerpage > *:last-child').offset();
 	var p2 = $('#innerpage').offset();
 	if(p1.left>p2.left) {
