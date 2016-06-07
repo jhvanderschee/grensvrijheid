@@ -6,9 +6,9 @@ youtube:
     max-res: true
 images:
     - image: 1.jpg
-      image-opacity: 0.7
+      opacity: 0.7
     - image: 2.jpg
-      image-opacity: 0.7
+      opacity: 0.7
 ---
 
 Beste C,
