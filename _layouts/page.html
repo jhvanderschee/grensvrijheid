@@ -92,8 +92,8 @@ function nextpage() {
 	if(p1.left<(p2.left+$('#innerinnerpage').width())) {
 		$('#leesverder').remove();
 	}
-	//console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()+50));
-	//$('#innerinnerpage > *:last-child').remove();
+	console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()));
+	$('#innerinnerpage > *:last-child').remove();
 } 
 checkpaging()
 </script>
