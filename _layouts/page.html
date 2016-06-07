@@ -89,7 +89,7 @@ function nextpage() {
 		if($('#innerinnerpage').hasClass('page2')) $('#innerinnerpage').addClass('page3');
 		if($('#innerinnerpage').hasClass('page1')) $('#innerinnerpage').addClass('page2');	
 	}
-	if(p1.left<(p2.left+$('#innerinnerpage').width()+50)) {
+	if(p1.left<(p2.left+$('#innerinnerpage').width())) {
 		$('#leesverder').remove();
 	}
 	//console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()+50));
