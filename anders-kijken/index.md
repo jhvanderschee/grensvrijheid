@@ -1,6 +1,6 @@
 ---
 title: 'Anders kijken, anders zijn'
-image: title3.png
+image: title2.png
 youtube: 
     id: 'yACo5eoLJF0'
     opacity: 0.5
