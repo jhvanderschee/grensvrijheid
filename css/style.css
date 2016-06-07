@@ -19,7 +19,7 @@ img {display: block;}
 #menutoggler {position: absolute; top: 30px; left: 30px;}
 #slogan {position: absolute; bottom: 30px; left: 30px;}
 #title {position: absolute; top: 12vh; left: calc(-20px + 20vw); z-index: 50;}
-#title img {width: 200px; }
+#title img {}
 #vorige {position: absolute; top: calc(50% - 10px); left: -15px; width: 100px; text-align: center;
     -ms-transform: rotate(90deg); /* IE 9 */
     -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
