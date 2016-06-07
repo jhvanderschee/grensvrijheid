@@ -52,7 +52,7 @@
 <script>$('#leesverder').css('opacity','0');</script>
 
 
-<table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td>{% if page.images[0] %}<img id="lb_img1" src="1.jpg" onclick="event.stopPropagation();" />{% endif %}{% if page.images[1] %}<img id="lb_img2" src="2.jpg" onerror="this.onerror=null;this.src='/img/blank.png';" onclick="event.stopPropagation();" />{% endif %}<iframe id="lb_youtube" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe></td></tr></table>
+<table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td>{% if page.images[0] %}<img id="lb_img1" src="1.jpg" onclick="event.stopPropagation();" />{% endif %}{% if page.images[1] %}<img id="lb_img2" src="2.jpg" onclick="event.stopPropagation();" />{% endif %}<iframe id="lb_youtube" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe></td></tr></table>
 
 
 <script>
