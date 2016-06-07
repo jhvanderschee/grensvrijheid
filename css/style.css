@@ -18,7 +18,7 @@ img {display: block;}
 #pagenumber {position: absolute; bottom: 30px; right: 30px;}
 #menutoggler {position: absolute; top: 30px; left: 30px;}
 #slogan {position: absolute; bottom: 30px; left: 30px;}
-#title {position: absolute; top: 12vh; right: calc(100vw +20px - 20vw); z-index: 50;}
+#title {position: absolute; top: 12vh; right: calc(100vw + 20px - 20vw); z-index: 50;}
 #title img {
     -moz-transform: scale(0.5);
     -webkit-transform: scale(0.5);
