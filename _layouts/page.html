@@ -63,7 +63,7 @@ function lightbox(el) {
 	$('#lb_youtube').hide();
 	$('#lightbox').addClass('visible');
 	$('#lb_'+el).show();
-	if(el=='youtube') $('#lb_youtube').attr('src','https://www.youtube.com/embed/{{ page.youtube }}?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1');
+	if(el=='youtube') $('#lb_youtube').attr('src','https://www.youtube.com/embed/{{ page.youtube.id }}?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1');
 }
 function checkpaging() {
 	$('#innerinnerpage').append('<div>&nbsp;</div>');
