@@ -1,7 +1,9 @@
 ---
 title: test
 ---
-<br /><br /><br /><br /><img src="img/logo.png" width="300" />
+<br /><br /><br /><br />
+
+<img src="img/logo.png" width="300" />
 
 <br /><br /><br /><br />
 
