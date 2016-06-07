@@ -36,8 +36,8 @@
 
 <a id="logo" href="/index.html"><img src="/img/logo.png" /></a>
 {% if page.image-1-opacity %}<a id="title" href="index.html"><img src="title.png" onerror="this.onerror=null;this.src='/img/blank.png';" /></a>{% endif %}
-{% if page.images[0] %}<a id="img1" onclick="lightbox('img1')"><img src="1.jpg" style="opacity: {{ page.images[0].image-opacity }};" /></a>{% endif %}
-{% if page.images[1] %}<a id="img2" onclick="lightbox('img2')"><img src="2.jpg" style="opacity: {{ page.images[1].image-opacity }};" /></a>{% endif %}
+{% if page.images[0] %}<a id="img1" onclick="lightbox('img1')"><img src="{{ page.images[0].image }}" style="opacity: {{ page.images[0].image-opacity }};" /></a>{% endif %}
+{% if page.images[1] %}<a id="img2" onclick="lightbox('img2')"><img src="{{ page.images[1].image }}" style="opacity: {{ page.images[1].image-opacity }};" /></a>{% endif %}
 {% if page.images[1] %}<div id="placeholder"></div>{% endif %}
 {% if page.youtube %}<a id="youtube" href="#" onclick="lightbox('youtube')"><img src="{% if page.youtube.max-res %}http://img.youtube.com/vi/{{ page.youtube.id }}/maxresdefault.jpg{% else %}http://img.youtube.com/vi/{{ page.youtube.id }}/hqdefault.jpg{% endif %}" style="opacity: {{ page.youtube.opacity }};" /></a>{% endif %}
 
@@ -52,7 +52,7 @@
 <script>$('#leesverder').css('opacity','0');</script>
 
 
-<table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td>{% if page.images[0] %}<img id="lb_img1" src="1.jpg" onclick="event.stopPropagation();" />{% endif %}{% if page.images[1] %}<img id="lb_img2" src="page.images[1].image" onclick="event.stopPropagation();" />{% endif %}<iframe id="lb_youtube" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe></td></tr></table>
+<table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td>{% if page.images[0] %}<img id="lb_img1" src="{{ page.images[0].image }}" onclick="event.stopPropagation();" />{% endif %}{% if page.images[1] %}<img id="lb_img2" src="{{ page.images[1].image }}" onclick="event.stopPropagation();" />{% endif %}<iframe id="lb_youtube" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe></td></tr></table>
 
 
 <script>
