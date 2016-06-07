@@ -111,7 +111,7 @@ img {display: block;}
 #leesverder {
     white-space: nowrap; 
     text-decoration: none; 
-    left: calc((100vw - 65vh)/2 + 62vh); 
+    left: calc((100vw - 65vh)/2 + 63vh); 
     bottom: 8vh; position: absolute; 
     background: #c4252a; 
     color: #eee; 
