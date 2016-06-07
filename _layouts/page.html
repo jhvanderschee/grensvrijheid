@@ -68,7 +68,7 @@ function lightbox(el) {
 function checkpaging() {
 	$('#innerinnerpage').append('<div style="height: 1px; width: 1px; position: relative; bottom: 1.4em;"></div>');
 	var p1 = $('#innerinnerpage > *:last-child').offset();
-	var p2 = $('#innerpage').offset();
+	var p2 = $('#innerinnerpage').offset();
 	if(p1.left<(p2.left+$('#innerinnerpage').width()+50)) {
 		$('#leesverder').remove();
 		console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()+50));
@@ -79,7 +79,7 @@ function checkpaging() {
 function nextpage() {
 	$('#innerinnerpage').append('<div style="height: 1px; width: 1px; position: relative; bottom: 1.4em;"></div>');
 	var p1 = $('#innerinnerpage > *:last-child').offset();
-	var p2 = $('#innerpage').offset();
+	var p2 = $('#innerinnerpage').offset();
 	if(p1.left>p2.left) {
 		if($('#innerinnerpage').hasClass('page7')) $('#innerinnerpage').addClass('page8');
 		if($('#innerinnerpage').hasClass('page6')) $('#innerinnerpage').addClass('page7');
