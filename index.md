@@ -1,13 +1,7 @@
 ---
 title: test
 ---
-<br /><br /><br /><br /><img src="img/logo.png" width="300" style="   
-    -ms-transform: rotate(-90deg); /* IE 9 */
-    -ms-transform-origin: 50% 50%; /* IE 9 */
-    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
-    -webkit-transform-origin: 50% 50%; /* Chrome, Safari, Opera */
-    transform: rotate(-90deg);
-    transform-origin: 50% 50%;" />
+<br /><br /><br /><br /><img src="img/logo.png" width="300" />
 
 <br /><br /><br /><br />
 
