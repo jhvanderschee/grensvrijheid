@@ -1,9 +1,13 @@
 ---
 title: '24-uurs dienst'
-youtube: '0a-ettfPJok'
-youtube-opacity: 0.5
-image-1-opacity: 0.7
-image-2-opacity: 0.7
+youtube: 
+    - youtube-id: '0a-ettfPJok'
+      youtube-opacity: 0.5
+images:
+    - image: 1.jpg
+      image-opacity: 0.7
+    - image: 2.jpg
+      image-opacity: 0.7
 ---
 
 Beste C,
