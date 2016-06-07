@@ -3,7 +3,7 @@ title: 'Anders kijken, anders zijn'
 youtube: 
     id: 'yACo5eoLJF0'
     opacity: 0.5
-    max-res: true
+    max-res: false
 images:
 ---
 
