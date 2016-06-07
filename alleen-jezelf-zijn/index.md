@@ -1,9 +1,14 @@
 ---
 title: 'Alleen - jezelf zijn'
-youtube: 'plXTJ8kWiik'
-youtube-opacity: 0.5
-image-1-opacity: 0.7
-image-2-opacity: 0.7
+youtube: 
+    - youtube-id: 'plXTJ8kWiik'
+      youtube-opacity: 0.5
+      max-res: false
+images:
+    - image: 1.jpg
+      image-opacity: 0.7
+    - image: 2.jpg   
+      image-opacity: 0.7
 ---
 
 Beste C,
