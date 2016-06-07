@@ -20,6 +20,7 @@ img {display: block;}
 #slogan {position: absolute; bottom: 30px; left: 30px;}
 #title {position: absolute; top: 12vh; left: calc(-20px + 20vw); z-index: 50;}
 #title img {
+    float: right;
     -moz-transform: scale(0.5);
     -webkit-transform: scale(0.5);
     transform: scale(0.5);
