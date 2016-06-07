@@ -3,7 +3,7 @@ title: test
 ---
 <br /><br /><br /><br />
 
-<img src="img/logo.png" width="300" />
+<img src="img/logo.png" style="width: 300px; max-width: 100%;" />
 
 <br /><br /><br /><br />
 
