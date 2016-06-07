@@ -23,7 +23,7 @@ Toen we aan het eind van ons reisje de filmpjes en foto’s van elkaar bekeken, 
 
 En zo was ook de conclusie van jullie mooie improvisatietoneelstuk uit 1988: ik zou je nooit anders dan anders willen; Hans Andreus schreef eens dit prachtige gedicht over anders zijn:
 
-Je bent zo<br />                                                                                                 
+Je bent zo<br />
 mooi<br />
 anders<br />
 dan ik,<br />
