@@ -82,7 +82,7 @@ img {display: block;}
     opacity: 1!important;
 }
 
-#page {height: 90vh; margin: 5vh 0; width: 65vh; background: rgba(255,255,255,0.95); position: absolute; top: 0; z-index: 5; left: calc(150px + 20vw); font-size: 1.6vh; line-height: 2.1vh;}
+#page {height: 90vh; margin: 5vh 0; width: 65vh; background: rgba(255,255,255,0.95); position: absolute; top: 0; z-index: 5; left: calc((100vw - 65vh)/2); font-size: 1.6vh; line-height: 2.1vh;}
 #innerpage {margin: 7.5vh 7.5vh; height: calc(75vh); overflow: hidden;}
 #innerinnerpage {
     -webkit-column-width: 50vh; /* Chrome, Safari, Opera */
