@@ -71,9 +71,9 @@ function checkpaging() {
 	var p2 = $('#innerpage').offset();
 	if(p1.left<p2.left) {
 		$('#leesverder').remove();
-		console.log(p1.left+'<'+p2.left);
 	}
 	else $('#leesverder').css('opacity','1');
+	console.log(p1.left+'<'+p2.left);
 	$('#innerinnerpage > *:last-child').remove();
 }
 function nextpage() {
