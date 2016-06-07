@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<div style="height: 49vh; padding: 25vh 0 0 7vh;"><img src="img/logo.png" style="display: block; width: 35vh; break-after: column;" /></div>
+<div style="height: 49vh; padding: 25vh 0 0 6vh;"><img src="img/logo.png" style="display: block; width: 35vh; break-after: column;" /></div>
 
 L.S.
 
