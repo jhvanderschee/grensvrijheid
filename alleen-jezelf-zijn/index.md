@@ -1,5 +1,6 @@
 ---
 title: 'Alleen - jezelf zijn'
+image: title2.png
 youtube: 
     id: 'plXTJ8kWiik'
     opacity: 0.5
