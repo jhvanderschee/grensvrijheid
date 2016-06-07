@@ -5,10 +5,6 @@ youtube:
       youtube-opacity: 0.5
       max-res: false
 images:
-    - image: 1.jpg
-      image-opacity: 0.7
-    - image: 2.jpg   
-      image-opacity: 0.7
 ---
 
 Beste C,
