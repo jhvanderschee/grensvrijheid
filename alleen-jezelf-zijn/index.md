@@ -6,7 +6,6 @@ image-1-opacity: 0.7
 image-2-opacity: 0.7
 ---
 
-Alleen / jezelf zijn
 Beste C,
 In 1979 schreef je in ‘Touwtrekken’ een artikeltje over ‘jezelf zijn’. Het is niet alleen een onderwerp van en voor tieners. En vaak genoeg kwam het onderwerp in de kelder en op kampjes ter sprake. Kan je ècht jezelf zijn, terwijl je toch ook altijd beïnvloed bent door anderen en omstandigheden?
 
