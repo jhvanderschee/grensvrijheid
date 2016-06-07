@@ -42,7 +42,7 @@ img {display: block;}
     transform-origin: 50% 50%;
 }
 #logo {position: absolute; bottom: 20vh; left: 7.5vw; z-index: 50;}
-#logo img {width: 300px;}
+#logo img {width: 35vh;}
 #img1 {cursor: pointer; position: absolute; top: 20vh; left: calc(100px + 0vw); z-index: 0; background: white;
     -ms-transform: rotate(-1deg); /* IE 9 */
     -webkit-transform: rotate(-1deg); /* Chrome, Safari, Opera */
