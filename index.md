@@ -2,7 +2,7 @@
 title: test
 ---
 
-<div style="height: 85vh;"><img src="img/logo.png" style="display: block; margin: 25vh 0 0 5vh; width: 35vh; break-after: column;" /></div>
+<div style="height: 65vh; padding: 25vh 0 0 5vh;"><img src="img/logo.png" style="display: block; width: 35vh; break-after: column;" /></div>
 
 L.S.
 
