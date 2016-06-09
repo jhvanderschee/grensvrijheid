@@ -1,5 +1,7 @@
 ---
 title: Home
+videolink: https://archief.grensvrijheid.nl/index.php/s/kgZatHqCIPBdtdd
+fotolink: https://archief.grensvrijheid.nl/index.php/s/sljecvBRKtzFe50
 order: 0
 ---
 
