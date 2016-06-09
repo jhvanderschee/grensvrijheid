@@ -5,8 +5,6 @@ order: 0
 
 <div style="height: 49vh; padding: 25vh 0 0 6vh;"><img src="img/logo.png" style="display: block; width: 35vh; break-after: column;" /></div>
 
-L.S.
-
 40 jaar vrijzinnig jongerenwerk doen is zoeken naar vrijheid. Hoe kan je de vrijheid van jongeren zo optimaal mogelijk maken zodat hun verantwoordelijkheid wordt getriggerd? En waar liggen de grenzen van die vrijheid?
 
 In mijn visie, getoetst aan 40 jaar ervaring, kan je die vrijheid niet groot genoeg maken. Dat wil niet zeggen dat je jongeren aan hun lot moet overlaten; dat is geen vrijheid maar verwaarlozing. Het gaat dus om de vraag naar ‘vrijheid waartoe’? Waarom wil je jongeren (mensen) vrijheid geven?
