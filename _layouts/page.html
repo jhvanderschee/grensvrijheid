@@ -64,7 +64,7 @@ $(function(){
 
 <table id="menu" cellspacing="0" cellpadding="0" onclick="$('#menu').removeClass('visible'); setTimeout(function(){ $('#menu').css('z-index','-1'); }, 300);"><tr><td>
 <ul>
-{% for item in sorted_pages %}<li {% if item.url == page.url %}class="selected"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
+{% for item in sorted_pages %}{% if item.title != 'Home' %}<li {% if item.url == page.url %}class="selected"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>{% endif %}{% endfor %}
 </ul>
 </td></tr></table>
 
