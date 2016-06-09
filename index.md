@@ -22,7 +22,7 @@ Vrijheid als avontuur gunnen we iedereen, vrijheid als avontuur maakt ons leven 
 
 De 45 brieven in deze map geven een beeld van dat avontuur. Gebruik het als inspiratie bij je eigen avontuur op de grens van vrijheid; GrensVrijheid dus.
 
-Klik op een thema op de startpagina, lees dan de brief, klik op de foto of het filmpje en kijk. Als je meer wilt zien, ga dan naar het beeldarchief op deze Site, gerangschikt op jaar. Brieven en archief worden regelmatig aangevuld. Inbreng is zeer welkom: <a href="mailto:mook@vrijburg.nl">mook@vrijburg.nl</a>.
+Klik op een thema op de startpagina, lees dan de brief, klik op de foto of het filmpje en kijk. Als je meer wilt zien, ga dan naar het [foto-archief](https://archief.grensvrijheid.nl/index.php/s/EJOofxcIBkrPGiB) of [video-archief](https://archief.grensvrijheid.nl/index.php/s/9KPWukQmIvwsjax), gerangschikt op jaar. Brieven en archief worden regelmatig aangevuld. Inbreng is zeer welkom: <a href="mailto:mook@vrijburg.nl">mook@vrijburg.nl</a>.
 
 Hartelijke groet,<br />
 Dik
