@@ -29,7 +29,16 @@
   <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
   <script>
   $(function() {
-    $( ".draggable" ).draggable({ stack: "#set > *" });
+    $( ".draggable" ).draggable({
+      start: function() {
+        $(this).css('z-index','98');
+      },
+      drag: function() {
+        //
+      },
+      stop: function() {
+        $(this).css('z-index','1');
+      });
   });
   </script>
 </head>
