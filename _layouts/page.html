@@ -41,7 +41,7 @@
 <div id="vorige"><a href="{% if prev_i < 0 %}{{ sorted_pages[last_i].url }}{% else %}{{ sorted_pages[prev_i].url }}{% endif %}">vorige</a></div>
 <div id="volgende"><a href="{% if num_of_pages > next_i %}{{ sorted_pages[next_i].url }}{% else %}{{ sorted_pages[0].url }}{% endif %}">volgende</a></div>
 
-<div id="set">
+
 {% if page.title != 'Home' %}<a id="logo" href="/index.html"><img src="/img/logo.png" /></a>{% endif %}
 {% if page.image %}<a id="title" href="index.html"><img src="{{ page.image }}" /></a>{% endif %}
 {% if page.images[0] %}<a id="img1" onclick="lightbox('img1')" class="draggable"><img src="{{ page.images[0].image }}" style="opacity: {{ page.images[0].opacity }};" /></a>{% endif %}
@@ -50,7 +50,7 @@
 {% if page.youtube %}<a id="youtube" href="#" onclick="lightbox('youtube')"><img src="{% if page.youtube.max-res %}http://img.youtube.com/vi/{{ page.youtube.id }}/maxresdefault.jpg{% else %}http://img.youtube.com/vi/{{ page.youtube.id }}/hqdefault.jpg{% endif %}" style="opacity: {{ page.youtube.opacity }};" /></a>{% endif %}
 
 <div id="page"><div id="innerpage"><div id="innerinnerpage" class="page1">
-</div>
+
 
 {{content}}
 
