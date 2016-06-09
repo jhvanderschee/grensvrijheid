@@ -23,28 +23,8 @@
 <head>
 <title> Project GRENSVRIJHEID 40 jaar vrijzinnig jeugdwerk </title>
 <link rel="stylesheet" type="text/css" href="/css/style.css">
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-  <script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-
-  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-  <script>
-  $(function() {
-    $( ".draggable" ).draggable({revert: true}, {
-      start: function() {
-        $(this).css('z-index','98');
-      },
-      drag: function() {
-        //
-      },
-      stop: function(event, ui) {
-        $(this).css('z-index','1');
-        $( event.toElement ).one('click', function(e){ e.stopImmediatePropagation(); } );
-      }
-    }); 
-  });
-  </script>
+<script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 </head>
-
 <body>
 <div id="menutoggler"><a href="{{ page.url }}">menu</a></div>
 <div id="slogan">40 jaar vrijzinnig jeugdwerk</div>
