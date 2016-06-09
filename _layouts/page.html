@@ -36,8 +36,9 @@
       drag: function() {
         //
       },
-      stop: function() {
+      stop: function(event, ui) {
         $(this).css('z-index','1');
+        $( event.toElement ).one('click', function(e){ e.stopImmediatePropagation(); } );
       }
     }); 
   });
