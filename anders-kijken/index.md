@@ -6,6 +6,9 @@ youtube:
     opacity: 0.5
     max-res: false
 images:
+videolink: https://archief.grensvrijheid.nl/index.php/s/kgZatHqCIPBdtdd
+fotolink: https://archief.grensvrijheid.nl/index.php/s/sljecvBRKtzFe50
+order: 1
 ---
 
 Beste W, M, S, E, M, M, R, S,
