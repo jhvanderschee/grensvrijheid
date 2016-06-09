@@ -64,7 +64,7 @@ img {display: block;}
     -webkit-transform-origin: 50% 50%; /* Chrome, Safari, Opera */
     transform-origin: 50% 50%;
 }
-#youtube img {max-width: 15vw; display: block;}
+#youtube img {max-width: 20vw; display: block;}
 #youtube iframe {display: none; position: absolute; z-index: 5;}
 
 #img1 img, #img2 img, #youtube img {
