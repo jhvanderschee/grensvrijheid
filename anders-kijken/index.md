@@ -3,12 +3,12 @@ title: 'Anders kijken, anders zijn'
 image: title2.png
 youtube: 
     id: 'yACo5eoLJF0'
+    name: 'video fragment Op zoek naar wat anders'
     opacity: 0.5
     max-res: false
+    full-url: https://archief.grensvrijheid.nl/index.php/s/mvE4inC2XXuvF5m
 images:
-videolink: https://archief.grensvrijheid.nl/index.php/s/kgZatHqCIPBdtdd
-fotolink: https://archief.grensvrijheid.nl/index.php/s/sljecvBRKtzFe50
-order: 1
+order: 1988
 ---
 
 Beste W, M, S, E, M, M, R, S,

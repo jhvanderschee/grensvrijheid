@@ -3,10 +3,12 @@ title: 'Alleen - jezelf zijn'
 image: title3.png
 youtube: 
     id: 'plXTJ8kWiik'
+    name: 'video fragment Wat doe ik hier'
     opacity: 0.5
     max-res: false
+    full-url: https://archief.grensvrijheid.nl/index.php/s/wskzPXPH6JVH6fR
 images:
-order: 1
+order: 1984
 ---
 
 Beste C,

@@ -3,7 +3,9 @@ title: Home
 order: 0
 ---
 
-<div style="height: 49vh; padding: 25vh 0 0 6vh;"><img src="img/logo.png" style="display: block; width: 35vh; break-after: column;" /></div>
+<div style="height: 74vh; text-align: center; break-after: column;"><img src="img/logo.png" style="display: inline-block; width: 35vh; margin: 20vh 0 7vh; " /><br />
+<a onclick="nextpage()" class="btn">De brieven</a> &nbsp; <a href="https://archief.grensvrijheid.nl/index.php/s/ImKZKanlyD2zyLe" class="btn" target="_blank">beeldarchief</a>
+</div>
 
 40 jaar vrijzinnig jongerenwerk doen is zoeken naar vrijheid. Hoe kan je de vrijheid van jongeren zo optimaal mogelijk maken zodat hun verantwoordelijkheid wordt getriggerd? En waar liggen de grenzen van die vrijheid?
 
