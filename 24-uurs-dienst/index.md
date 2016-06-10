@@ -1,6 +1,6 @@
 ---
 title: '24-uurs dienst'
-image: title.png
+image: 24uursdienst.png
 youtube: 
     id: '0a-ettfPJok'
     name: VIDEO

@@ -1,6 +1,6 @@
 ---
 title: 'Alleen - jezelf zijn'
-image: title3.png
+image: alleenjezelfzijn.png
 youtube: 
     id: 'plXTJ8kWiik'
     name: 'video fragment Wat doe ik hier'

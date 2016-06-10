@@ -1,6 +1,6 @@
 ---
 title: 'Anders kijken, anders zijn'
-image: title2.png
+image: anderskijken.png
 youtube: 
     id: 'yACo5eoLJF0'
     name: 'video fragment Op zoek naar wat anders'
