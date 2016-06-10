@@ -9,7 +9,9 @@ youtube:
     full-url: https://archief.grensvrijheid.nl/index.php/s/L2nGiQOZaOQ0QH1
 images:
     - image: foto1.JPG
+      name: 1989 04 FOTO'S Berlijn
       opacity: 0.7
+      full-url: https://archief.grensvrijheid.nl/index.php/apps/galleryplus/s/ImKZKanlyD2zyLe?path=%2F1989%2004%20FOTO%27S%20Berlijn#1989%2004%20FOTO'S%20Berlijn
 order: 1989
 ---
 
