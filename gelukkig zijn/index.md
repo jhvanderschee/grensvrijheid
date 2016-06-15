@@ -69,5 +69,5 @@ In dit verband danken we veel aan kunstenaars die nieuwe dimensies voor ons open
 
 Dan zien we het verrassende wat er gebeurt tussen mensen. Zo wil ik wel met mijn hoofd in of boven de wolken lopen en accepteren dat ik niet van deze wereld ben. Alleen samen met anderen kunnen we leven in die nieuwe dimensie; samen, met onze hoofden in de wolken. Dat is pas euforie, dat is een geluk dat levenslang duurt.
 
-Met hartelijke groet,
+Met hartelijke groet,<br/>
 Dik
