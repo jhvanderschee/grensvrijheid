@@ -1,4 +1,4 @@
-{% assign sorted_pages2 = site.pages | sort: 'order' %}
+{% assign sorted_pages2 = site.pages | sort: 'title' %}
 
 {% assign sorted_pages = "" | split: ""  %}
 {% for item in sorted_pages2 %}
@@ -63,9 +63,10 @@ $(function(){
 <script>$('#leesverder').css('opacity','0');</script>
 
 
-<table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td><div style="display: inline-block;"><a class="caption" style="float: right;">close</a>{% if page.images[0] %}<div id="lb_img1"><img src="{{ page.images[0].image }}" onclick="event.stopPropagation();" /><span class="caption">{{ page.images[0].name }} | <a href="{{ page.images[0].full-url }}" target="_blank">meer foto's</a></span></div>{% endif %}{% if page.images[1] %}<div id="lb_img2"><img src="{{ page.images[1].image }}" onclick="event.stopPropagation();" /><span class="caption">&nbsp;</span></div>{% endif %}<div id="lb_youtube"><iframe width="853" height="480" src="" frameborder="0" allowfullscreen></iframe><span class="caption">{{ page.videos[0].name }} | <a href="{{ page.videos[0].full-url }}" target="_blank">volledige video</a></span></div><div></td></tr></table>
+<table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td><div style="display: inline-block;"><a class="caption" style="float: right;">sluiten</a>{% if page.images[0] %}<div id="lb_img1"><img src="{{ page.images[0].image }}" onclick="event.stopPropagation();" /><span class="caption">{{ page.images[0].name }} | <a href="{{ page.images[0].full-url }}" target="_blank">meer foto's</a></span></div>{% endif %}{% if page.images[1] %}<div id="lb_img2"><img src="{{ page.images[1].image }}" onclick="event.stopPropagation();" /><span class="caption">&nbsp;</span></div>{% endif %}<div id="lb_youtube"><iframe width="853" height="480" src="" frameborder="0" allowfullscreen></iframe><span class="caption">{{ page.videos[0].name }} | <a href="{{ page.videos[0].full-url }}" target="_blank">volledige video</a></span></div><div></td></tr></table>
 
-<table id="menu" cellspacing="0" cellpadding="0" onclick="$('#menu').removeClass('visible'); setTimeout(function(){ $('#menu').css('z-index','-1'); }, 300);"><tr><td>
+<table id="menu" cellspacing="0" cellpadding="0"><tr><td>
+<a onclick="$('#menu').removeClass('visible'); setTimeout(function(){ $('#menu').css('z-index','-1'); }, 300);" id="closemenu">sluiten</a>
 <ul>
 {% for item in sorted_pages %}{% if item.title != 'Home' %}<li {% if item.url == page.url %}class="selected"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>{% endif %}{% endfor %}
 </ul>
@@ -87,7 +88,7 @@ function lightbox(el) {
 	$('#lb_'+el+' > *').show();
 	$('#lb_'+el+' > *').css('display','block');
 	if(el=='youtube') {
-		$('#lb_youtube iframe').attr('src','https://www.youtube.com/embed/{{ page.videos[0].id }}?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1');
+		$('#lb_youtube iframe').attr('src','https://www.youtube.com/embed/{{ page.videos[0].id }}?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1');
 	}
 }
 function checkpaging() {

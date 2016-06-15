@@ -5,12 +5,12 @@ videos:
     - id: 'NQhyvWF3KDw'
       name: video fragment Belfast interviews kids 2004
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
+    - image: Bij Marokkanen in de achtertuin 2011.jpg
       opacity: 0.7
-    - image: 2.jpg
+    - image: Bij Marokkanen op het land 2011.jpg
       opacity: 0.7
 order: 2004
 ---
@@ -35,6 +35,8 @@ Ik denk dat we erdoor moediger zijn geworden.
 Met hartelijke groet,<br/>
 Dik
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>

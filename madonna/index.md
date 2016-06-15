@@ -5,12 +5,10 @@ videos:
     - id: 'wQeUB2BtAwc'
       name: video fragment Madonna en interviews 1991
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
+    - image: So, now what....jpg
       opacity: 0.7
 order: 1996
 ---

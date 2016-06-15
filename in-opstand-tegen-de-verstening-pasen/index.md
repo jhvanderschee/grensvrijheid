@@ -5,12 +5,12 @@ videos:
     - id: 'EbRxSAX9jv0'
       name: in opstand tegen de verstening; kort filmpje
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
+    - image: in opstand tegen de verstening foto-1.JPG
       opacity: 0.7
-    - image: 2.jpg
+    - image: in opstand tegen de verstening foto-2.JPG
       opacity: 0.7
 order: 1984
 ---

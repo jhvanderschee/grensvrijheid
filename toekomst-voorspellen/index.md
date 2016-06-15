@@ -5,13 +5,9 @@ videos:
     - id: 'xQzp6W6HAdw'
       name: video fragment zomerreis 2000 contrasten
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
-      opacity: 0.7
 order: 2000
 ---
 
@@ -25,14 +21,12 @@ Men neme een pooltafel met de bijbehorende ballen. Deze leggen we op de goede pl
 Vervolgens is het de bedoeling dat de persoon in kwestie zelf afstoot. Aan de hand van de positie van de ballen in combinatie met de betekenis van de pockets (liefde, haat, geluk, jaloezie, vriendschap en woede) kon dan een betekenis gegeven worden aan die posities. (er liggen veel halve ballen bij de vriendschap pocket, dus binnen nu en een half jaar ontmoet je een vrouw die waarmee je een vriendschappelijke relatie gaat krijgen, er liggen 3 hele ballen bij de haat pocket, dus je krijgt ruzie met drie mannen uit je omgeving binnen nu en een maand, enz.) 
 
 
-•	Srilankese thee blaadjes, © Marthe Stratemeier en Laura de Jong
+•	Srilankese thee blaadjes, © Marthe Straatemeier en Laura de Jong
 
 Deze methode is gebaseerd op de verdeling van de theeblaadjes van het eerste leeg gedronken kopje thee van de dag. 
 
 <br/>
 <br/>
-<br/>
-
 
 Beste L, M, H,
 

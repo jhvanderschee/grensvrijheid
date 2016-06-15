@@ -5,12 +5,10 @@ videos:
     - id: 'cMkKvtMSFS0'
       name: video fragment alleen maar toch samen over oud jong
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
+    - image: oud-jong maaltijd in Vrijburgkelder.jpg
       opacity: 0.7
 order: 2016
 ---
@@ -26,32 +24,31 @@ Laat ik beginnen met een gedicht van Annie M.G. Schmidt;
  
 erwtjes.
  
-Toen ze een meisje was van zeventien
-moest ze een hele middag erwtjes doppen
-op het balkon. Ze wou de teil omschoppen.
+Toen ze een meisje was van zeventien<br />
+moest ze een hele middag erwtjes doppen<br />
+op het balkon. Ze wou de teil omschoppen.<br />
 Ze was heel woest. Ze kon geen erwt meer zien.
 
-Toen ging ze maar wat dromen, van geluk,
-en dat geluk had niets te doen met erwten
-maar met de Liefde en de Grote Verte.
+Toen ging ze maar wat dromen, van geluk,<br />
+en dat geluk had niets te doen met erwten<br />
+maar met de Liefde en de Grote Verte.<br />
 Dat dromen hielp. Het scheelde heus een stuk.
 
 
-En dat is meer dan vijftig jaar terug.
-Ze is nu zeventig en heel erg fit
-en altijd als ze 's middags even zit,
+En dat is meer dan vijftig jaar terug.<br />
+Ze is nu zeventig en heel erg fit<br />
+en altijd als ze 's middags even zit,<br />
 mijmert ze, met een kussen in de rug,
 
-over geluk en zo... een beetje warrig,
-maar het heeft niets te maken met de Verte
-en met de Liefde ook niet. Wel met erwten,
+over geluk en zo... een beetje warrig,<br />
+maar het heeft niets te maken met de Verte<br />
+en met de Liefde ook niet. Wel met erwten,<br />
 die komen altijd weer terug, halsstarrig.
 
-Ach ja, zegt ze. Ik kan mezelf nog zien,
-daar in mijn moeders huis op het balkon,
-bezig met erwtjes doppen in de zon.
+Ach ja, zegt ze. Ik kan mezelf nog zien,<br />
+daar in mijn moeders huis op het balkon,<br />
+bezig met erwtjes doppen in de zon.<br />
 Dat was geluk. Toen was ik zeventien.
- 
  
 Laten we wat feiten op een rij zetten. (Jos Dobber)
 
@@ -77,6 +74,7 @@ Aan de WHO-definitie van gezondheid als de afwezigheid van fysieke, mentale, en 
 De definitie van gezondheid van dr. Machteld Huber: ‘Gezondheid is het vermogen zich aan te passen en een eigen regie te voeren in het licht van de lichamelijke, emotionele en sociale uitdagingen in het leven’.
 
 Vergankelijkheid 
+
 Vergankelijkheid is mooi als je er langs kan rijden; ‘pittoresk, die mensen daar in dat krotje in de zon; en die olijfboom ernaast maakt het plaatje af’. En dan verder rijden naar een comfortabel hotel. 
 Als je jong bent kan je roepen ‘nooit meer oorlog’ en ‘weg met de armoede’. Vergankelijkheid is, om je later te realiseren dat het een loze kreet bleek, dat de verschrikkingen gewoon doorgaan, terwijl je er niets tegen lijkt te kunnen doen, niets tegen doet. 
  Is het zoiets als ‘Zoals de (zeer) ouden zongen, piepen in iedere tijd weer de jongen.’?
@@ -85,25 +83,23 @@ Het lijkt een zich eeuwig herhalend proces: jongeren die protesteren, ageren teg
 Maar nu? Het is toch prachtig om te zien, dat kort geleden weer een groep jongeren zich inzettte voor deels dezelfde idealen als toen in de 60er jaren, weer het Maagdenhuis bezetten. En hoe reageert nu de top van de universiteit, inclusief de minister: ze gaan, aarzelend, mee, begrijpen wat er aan de hand is. Denken mee in die hartekreet van de studenten van het meer willen delen van verantwoordelijkheid.
 
 In het gedicht ‘de zeer oude zingt’ van Lucebert lijkt de fatalistische gedachte van het eeuwig herhalende proces naar berusting en comfort te overheersen.  Maar dan slaat het gedicht om, op het moment dat de overbekende zin komt “alles van waarde is weerloos” volgt de kern van het gedicht: “alles wordt van aanraakbaarheid rijk”- Pas als we aanraakbaar worden, als we in staat zijn aan te raken, geen afstand meer houden, maar echt contact maken, krijgt ons leven waarde. Het gaat uiteindelijk om het contact wat we met elkaar aangaan. Als we werkelijk in staat zijn om het contact met elkaar aan te gaan, kunnen we de kringloop van protest naar gezapigheid doorbreken. Dat wordt dan het kloppend hart van onze wereld, ons leven.
-
  
-       Lucebert; de zeer oude zingt
+Lucebert; de zeer oude zingt
 
-er is niet meer bij weinig
-noch is er minder
-nog is onzeker wat er was
-wat wordt wordt willoos
+er is niet meer bij weinig<br />
+noch is er minder<br />
+nog is onzeker wat er was<br />
+wat wordt wordt willoos<br />
 eerst als het is is het ernst
 
-het herinnert zich heilloos
-en blijft ijlings
-alles van waarde is weerloos
-wordt van aanraakbaarheid rijk
-en aan alles gelijk
-als het hart van de tijd
+het herinnert zich heilloos<br />
+en blijft ijlings<br />
+alles van waarde is weerloos<br />
+wordt van aanraakbaarheid rijk<br />
+en aan alles gelijk<br />
+als het hart van de tijd<br />
 als het hart van de tijd
  
-
 Het gevaar van jong zijn is, dat je zulke stormachtige ideeën hebt, dat je de realiteit uit het oog dreigt te verliezen. Het gevaar van je werkzame leven met het opvoeden van kinderen is, dat je idealen verdwijnen en je comfort zoekt,  maar het grote gevaar van oud zijn, is, dat je wereld steeds kleiner wordt, nog slechts voor jezelf leeft, het IK gaat overheersen. Je bent zo veel bezig met je eigen verzorging, met de gebreken van je lijf; je wordt haast gedwongen je steeds meer op jezelf te richten.
 Er is een subtiel verschil tussen zorgen maken om je leven en leven zelf. Het verschil zit hem in het loslaten van het IK, het toelaten van levenskracht door eens flink door te ademen, om je heen te kijken en de verbondenheid te voelen met de wereld, met anderen, de wereld en het kind in jezelf, inclusief de idealen die daar bij hoorden.
 Alles verandert steeds, wij ook; uit stof komen we voort, tot stof keren we terug en uit ons stof komt weer nieuw leven voort. Alleen al het bewustzijn van die verbondenheid met het eeuwige leven in de kosmos kan ons de rust geven te weten dat we niet alleen voor onszelf leven. Haal diep adem, kijk om je heen, zie elkaar, de wereld en de schoonheid van dat alles; en leef.

@@ -3,15 +3,17 @@ title: 'Oerschreeuw'
 image: oerschreeuw.png
 videos:
 images:
-    - image: 1.jpg
+    - image: Texel 1974.JPG
       opacity: 0.7
-    - image: 2.jpg
+    - image: Texel 1975.JPG
+      opacity: 0.7
+    - image: Texel 1976.JPG
       opacity: 0.7
 order: 1974
 ---
 
 
-Beste Peter.
+Beste P,
 
 Wat kon jij schreeuwen. Letterlijk bij een spel, maar ook figuurlijk door duidelijk te maken dat je er was, wat je wilde en wat je mening was.
 

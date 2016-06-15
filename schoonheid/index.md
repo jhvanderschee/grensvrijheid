@@ -3,9 +3,7 @@ title: 'Schoonheid'
 image: schoonheid.png
 videos:
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
+    - image: kelderbeauties 2006.JPG
       opacity: 0.7
 order: 1996
 ---

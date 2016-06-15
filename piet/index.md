@@ -3,9 +3,9 @@ title: 'Piet'
 image: piet.png
 videos:
 images:
-    - image: 1.jpg
+    - image: sint en piet in de kelder.jpg
       opacity: 0.7
-    - image: 2.jpg
+    - image: karel appel Piet.jpg
       opacity: 0.7
 order: 2015
 ---

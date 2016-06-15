@@ -1,16 +1,52 @@
 ---
 title: 'Vrijheid inleiding'
-image: gelukkig-zijn.png
+image: vrijheid.png
 videos:
-    - id: '7NEP98fNwZ4'
-      name: video fragment Geluk 1996
-      opacity: 0.5
-      max-res: true
-      full-url: 
 images:
-    - image: 1.jpg
+    - image: engeltje.jpg
       opacity: 0.7
-    - image: 2.jpg
+    - image: wijntje.jpg
+      opacity: 0.7
+    - image: love.jpg
       opacity: 0.7
 order: 1996
 ---
+
+Beste Jelle en Japke,
+
+Als kind, achterop de bromfiets bij mijn vader, genoot ik van het rijden over de hoge bruggen van de Amsterdamse grachten. Harder wilde ik om dat gevoel in mijn buik weer en sterker te voelen. Maar na een tijd werd die gewaarwording minder en zelfs de Python-achtbaan op de Efteling was op den duur niet meer genoeg om dat speciale gevoel op te roepen. Het gevoel is prachtig, maar als het nergens toe dient, geen verbinding heeft met de rest van je leven, zal dat gevoel uiteindelijk verdwijnen. Ook al doet het pretpark nog zo zijn best ons dat grootse sentiment te laten behouden. 
+
+Het grote pretpark, onze maatschappij, heeft een machtig middel in handen om ons steeds weer even dat lekkere gevoel te geven en dat is ons ego. Dat ego bespeelt zij, versterkt zij door ons een rol te laten spelen vanuit bezit; ‘mijn …(vul alles maar in)’ maakt ons mensen tot elkaars concurrenten. Vanuit die rollen kunnen we dus ook geen authentieke ontmoeting hebben. “Mijn” leven kan ik verliezen. Als ik besef dat ik leven “ben” kan ik dat niet verliezen; wat ik ben, kan ik niet verliezen. En “zijn” is alleen mogelijk in het NU, in het tegenwoordige, in het bewust’zijn’. Het “zijn” is dus een vormloze dimensie, geen zichtbare dimensie, is stilte, is ruimte, niets, het Eeuwig Leven, het Koninkrijk. Dat “zijn”, die stilte, die innerlijke ruimte is vrijheid van de bezitsdwang, is vrede.*5) In een van de shows van cabaretier Freek de Jonge speelde hij aan het slot met de begrippen ‘hebben’ en ‘zijn’ en kwam, op een leeg zwart podium, tot de conclusie ‘ik ben’, waarna hij overspoeld werd met pingpongballen die langzaam de zaal instroomden. 
+
+Zijn show ging over Liefde, misschien wel het enige spel in ons leven dat geen regels kent. Liefde kent geen regels maar heeft grote gevolgen, nl. dat we elkaar zien zoals we zijn, authentiek, in onze naakte eigenheid, los van elke (maatschappelijke) rol. Zodra regels de liefde gaan vervangen, zijn er steeds meer regels nodig en wordt de liefde steeds meer verdrongen. 
+
+“Heb lief en doe wat je wilt” (Augustinus).
+
+De vrijheid die jongeren zo belangrijk vinden, is vaak genoeg de vrijheid van het pretpark. Kiezen welke kick je gaat gebruiken om je ego even te strelen. 
+
+Maar hoe kunnen we jongeren laten meemaken wat vrijheid is, wat ruimte is, wat creativiteit is, verantwoordelijkheid? Hoe kunnen we hen stimuleren om zelf uit te vinden wat de vrijheid van een pretpark is, wat daar leuk aan is, wat de vrijheid van het leven is die Jezus Eeuwig Leven noemt. Zonder dat voor te schrijven. Zonder regels en criteria in te brengen, waarmee het één gediskwalificeerd wordt en het ander een heilige must.
+
+Want in het geloof, ons geloof, de vrijzinnigheid gaat het ook om het vormloze, het zijn. De basis daarvoor is ruimte in brede zin. Daarbij staat niet de bijbel in het centrum, maar Gods scheppende werking in het NU. Op de vraag waarom God nooit antwoordt, gaf een wijze monnik eens als antwoord, dat God luistert. Zo kunnen we ook kerk zijn, present zijn, zoals God present is, luisterend, onbevooroordeeld, stil; niet predikend, niet van binnen naar buiten, maar van buiten naar binnen. Dat betekent ook dat we niet kerk zijn voor religieuze consumenten, maar voor religieuze producenten. Het gaat dan eerder om een goede plek te bieden aan mensen om elkaar te kunnen ontmoeten, elkaar weer te ‘zien’ en zo samen een hedendaags religieus leven ontwikkelen. Daar is ruimte in de breedste zin voor nodig. Ruimte om tot ontwikkeling te kunnen komen, de fysieke ruimte van samenkomst, ruimte om te kunnen denken en bespreken wat je wilt, ruimte in jezelf, de stilte en vrijheid.
+
+In het vroege christendom moeten de mensen zich ook zo vrij hebben gevoeld, ze kregen en namen alle ruimte om een gemeenschap te ontwikkelen. En zo ontstond een veelkleurig landschap van christelijke gemeenschappen, minstens zo verscheiden als de christelijke kerken nu, waar niet de regels de baas waren maar liefde heerste. “Volgelingen van Jezus hebben vanaf het begin verschillend over zijn persoon en missie gedacht” (G.P. Luttikhuizen).
+
+In het Bodemuseum in Berlijn staat een 4de eeuwse troon, genaamd de lege troon van Christus. Het is bedoeld als symbool voor de heerschappij van Jezus die regeert naar openheid en vrijheid. Na een periode van tolerantie en vrijheid volgden 15 eeuwen van opstellen van interpretaties die regels werden en het ontwerpen van geboden en straffen. Sinds enkele jaren zijn we weer in een fase van besef dat de verschillende geloofsvormen elkaar kunnen versterken door niet in bezitterige ego-structuren terecht te komen maar naar elkaar te luisteren. 
+
+Strijd om het eigen gelijk is voor veel mensen niet meer het allerbelangrijkste. Afscheid van het machtsdenken dat ons leerde dat degene die gewonnen had ook de waarheid sprak. 
+
+In het jeugdwerk hebben we natuurlijk al heel lang door dat waarheid opleggen niet echt werkt. Dus de vraag komt terug: Hoe kunnen we jongeren iets meegeven waardoor ze gestimuleerd worden om zelf op zoek te gaan naar de waarheid van hun leven en waardoor ze niet hoeven te blijven hangen in de vrijheid van het pretpark.
+
+In Friesland heeft men o.l.v. verkeersdeskundige Hans Monderman (Shared Space) ontdekt dat verkeer zonder regels veiliger is. Er zijn minder verkeersongevallen en bij ongevallen is er minder letsel. De conclusie is, dat doordat er geen regel is, verkeersdeelnemers beter opletten en, vooral, beter op de mens achter het stuur en op de fiets gaan letten. De verkeersregel stimuleerde de anonimiteit in het verkeer, er werd gedacht in auto’s en fietsen en niet in de mens er in of op. De verkeersregel-loze situatie dwingt de weggebruiker op zijn mede weggebruiker te letten. Wat doet hij, kijkt ze wel, enz. Ik bezoek zo’n kruising in Drachten. 100 meter voor de kruising verandert de straatstructuur. Het asfalt wordt verhoogd en gaat over in gekleurde klinkers, de weg wordt smaller, belijning verdwijnt, trottoir valt samen met fietspad en rijstrook. Hoe langer ik op het plein kijk, hoe beter ik kan zien hoe doorslaggevend de wijziging van de straatordening is op het gedrag van de verkeersdeelnemers. De verandering maakt alert, creëert bewustzijn dat er iets anders gaande is dan normaal. En dan gaat het, men ziet elkaar als mens i.p.v. als voertuig, de menselijkheid terug in het verkeer. Een fascinerende gewaarwording. Het dringt tot mij door dat verkeer zonder regels een maatschappijvisie is.
+
+Nu komen mensvisie, geloof, kerk zijn en maatschappijvisie bij elkaar. Je zou het kunnen noemen “de collectieve creativiteit en de verbeeldingskracht van de utopie” (kunstenaar Constant) of “de utopie van een samenhangende levensruimte” (Mondriaan). De kunstenaars aan het woord dus. Het waren de kunstenaars die het perspectief ontdekten in de 14de eeuw, de dichters die de wereld op zijn kop zetten, de filosofen die oproepen tot relativeren. “De mensen zullen het nooit weten” (Max Ernst). Wat een ruimte geven al die artiesten / kunstenaars. En “kunst is de taal van God” (Tom Schoenmaker). Wat een ruimte kunnen we onszelf geven als we wat meer artiest zouden zijn. Het wezen van ruimte is niets. Dat niets geeft plaats aan inhoud en die inhoud wordt gevormd door de positieve energie van de mensen in de ruimte. Dat proces zou je Gemeenschap kunnen noemen, maar dan niet in de oude zin van het woord, groepsverband, maar in netwerken. Een groep vereist homogeniteit, netwerken niet. Die kunnen steeds van samenstelling veranderen binnen die ruimte. Het aardige van denken in netwerken i.p.v. in groepen is dat je niet meer in tegenstellingen denkt, niet meer in concurrentie. En laten we elkaar vooral als volwassen en verantwoordelijke mensen zien, want wie mensen als domme wezens behandelt, krijgt dom gedrag.
+
+Net als in Drachten in het verkeer-zonder-regels, waar mensen elkaar weer zien en met elkaar omgaan vanuit een wil tot samengaan en niet vanuit concurrentie, willen we in de kerkkelder, de kelder onder Vrijburg met elkaar omgaan. We willen er geen a-priori regels. Ieder draagt verantwoordelijkheid voor zichzelf, de anderen en de kelder en krijgt de volledige ruimte zich te ontplooien in samenhang met de andere bewoners van de kelder. De problemen die ontstaan zijn geen aanzetten tot het maken van regels, maar tot her’zien’ van de gemeenschap, hoe we met elkaar omgaan. Hoe veelkleuriger hoe beter, hoe verscheidener we zijn en daarin kunnen leven, hoe dichter we komen bij het Ideaal, het Koninkrijk. Niet omdat we allemaal vrienden zijn (groepsgedrag) maar omdat we allemaal gewaardeerd willen worden in onze eigenheid (netwerk). Niet om ons ego zijn we mens, maar omdat we er mogen zijn.
+
+Juist de twijfel die we hebben, geeft ons de vrijheid  echt naar een ander te luisteren, niet de ander willen overtuigen van ons gelijk, als een dolle ons einddoel willen halend, waardoor we niet meer kunnen zien dat er meer is dan we dachten. Dat juist onze twijfel zorgt dat we op zoek blijven naar gods koninkrijk en niet vervallen in de zelfgenoegzaamheid van de zeker wetende gelovige. In het dagelijkse leven wil dat zeggen dat we wederzijds onze twijfels mogen uitspreken. We zijn gauw geneigd om als iemand twijfels uitspreekt een oplossing te bedenken, maar ik denk dat die ander eerder behoefte heeft om ook onze twijfels te horen dan onze oplossing. Stoei eerst eens met elkaars twijfel, i.p.v. te discussiëren over oplossingen. Stel elkaar vervolgens vragen, om dichter bij die twijfels te komen. Het opent niet alleen ons hart voor elkaar, maar het zal een creatief proces in werking zetten. Precies het uitgangspunt van ons werk, 40 jaar geleden; en nog steeds. Dat geeft vertrouwen in de toekomst, een toekomst waarin we samen de oplossingen zullen vinden voor de grote wereldproblemen en onze kleine dagelijkse vraagstukken. Vrijheid, Verantwoordelijkheid en Vertrouwen dus.
+
+En nog iets. Vrijheid, verantwoordelijkheid en vertrouwen geven, betekent dus ook dat ik die voor mijzelf ook altijd heb genomen. Alle plannen die ik had voor het werken met jongeren, hadden geen einddoel, alleen een begindoel; namelijk, hoe gaan we dit aanpakken… nu. We gaan op reis, waarheen, hoe, hoe gaan we het doen, “ach we zien het wel daar”. We beginnen een kelder, iedereen kan een sleutel krijgen; daarna zien we wel weer verder, elk probleem, elke kwestie lossen we op, op het moment dat het speelt. We bedenken geen problemen van te voren. 
+
+Er is maar één ding dat ik van te voren bedenk, aan iedereen duidelijk wil maken, en dat is dat we hier vanuit vrijheid werken, dat is bevrijd van normatief denken, culturele dwang en strafangst. Dat is er voor elkaar zijn vanuit een open houding, dat is verantwoordelijkheid en vertrouwen.
+
+Met een hartelijke groet, 
+Dik

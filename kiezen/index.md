@@ -3,15 +3,11 @@ title: 'Kiezen'
 image: kiezen.png
 videos:
     - id: 'CqYBe9jAfUU'
-      name: video fragment verkiezingen: geesten 2003
+      name: 'video fragment Verkiezingen: geesten 2003'
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
-      opacity: 0.7
 order: 2003
 ---
 
@@ -31,12 +27,12 @@ Ik herken mijn gevoel in de woede van Jezus; het omver smijten van de tafeltjes 
 
 Het is zoals Gerrit Komrij het zegt in zijn laatste gedicht dat hij schreef voor zijn dood: niet kiezen is grijs, is niks; kies toch voor zwart of wit; ik citeer:
 
- Maar wat als heel de wereld grijs zou zijn,
- geen zwart, geen wit? Dat is mijn grootste vrees.
- Dan was ik lam en had ik niet eens pijn.
- Dan zag ik medemensen die nooit kiezen.
- Dan lost de kamer op in het gordijn.
- Dan raakt de wereld leeg.
+Maar wat als heel de wereld grijs zou zijn,
+geen zwart, geen wit? Dat is mijn grootste vrees.
+Dan was ik lam en had ik niet eens pijn.
+Dan zag ik medemensen die nooit kiezen.
+Dan lost de kamer op in het gordijn.
+Dan raakt de wereld leeg.
 
 Voel ik in Komrij’s gedicht ook woede, heilige woede? Weet hij ook hoe het moet; weet ook hij wat goed of kwaad is, of laat hij de interpretatie van wat zwart of wit, kwaad of goed is, juist aan mij over… ALS ik maar kies?
 

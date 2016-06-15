@@ -5,12 +5,10 @@ videos:
     - id: '5oa05Gg8HIo'
       name: video fragment De muur is er intussen nog 1986
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
+    - image: Oost-Europa-1987.jpg
       opacity: 0.7
 order: 1986
 ---

@@ -5,14 +5,14 @@ videos:
     - id: '0ic5gKs-XCs'
       name: video fragment De ontmoeting 1985
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
+    - image: ingepakte gashouder Christo 2013 a.JPG
       opacity: 0.7
-    - image: 2.jpg
+    - image: ingepakte gashouder Christo 2013 b.JPG
       opacity: 0.7
-order: 1996
+order: 1985
 ---
 
 Beste R, E, M, Y, E, S, B, H, M,

@@ -18,6 +18,7 @@ img {display: block;}
 
 #pagenumber {position: absolute; bottom: 30px; right: 30px;}
 #menutoggler {position: absolute; top: 30px; left: 30px;}
+#closemenu {cursor: pointer; position: absolute; top: 30px; right: 30px;}
 #slogan {position: absolute; bottom: 30px; left: 30px;}
 #title {position: absolute; top: 15vh; right: calc(50vw + 32.5vh - 30px); z-index: 50;}
 #title img {
@@ -166,7 +167,7 @@ img {display: block;}
 #lightbox .caption {padding: 5px 0;}
 #lightbox .caption, #lightbox .caption a {color: white;}
 
-#menu {cursor: pointer; opacity: 0; position: absolute; top: 0; left: 0; background: rgba(0,0,0,0.9); height: 100%; width: 100%; z-index: -1;
+#menu {opacity: 0; position: absolute; top: 0; left: 0; background: rgba(0,0,0,0.9); height: 100%; width: 100%; z-index: -1;
   -webkit-transition: opacity .3s ease-in-out;
   -moz-transition: opacity .3s ease-in-out;
   -o-transition: opacity .3s ease-in-out;
@@ -174,8 +175,15 @@ img {display: block;}
 }
 #menu.visible {opacity: 1;}
 #menu td {padding: 5vh 5vw; vertical-align: middle; text-align: center;}
-#menu li {list-style: none; line-height: 3em;}
-#menu li a {color: white; text-decoration: none;}
+#menu ul {
+    -webkit-columns: 350px; /* Chrome, Safari, Opera */
+    -moz-columns: 350px; /* Firefox */
+    columns: 350px;
+    text-align: left;
+    margin-left: 5vw;
+}
+#menu li {list-style: none; line-height: 2em;}
+#menu a {color: white; text-decoration: none;}
 
 
 @media all and (max-width: 70vh) {

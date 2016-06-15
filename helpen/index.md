@@ -5,13 +5,9 @@ videos:
     - id: 'Ds2EJNqEEOs'
       name: video fragment Kabouters bestaan nog 1988
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
-      opacity: 0.7
 order: 1988
 ---
 

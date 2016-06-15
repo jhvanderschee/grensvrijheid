@@ -3,9 +3,9 @@ title: 'Koninklijk; haat en nationalisme'
 image: koninklijk.png
 videos:
 images:
-    - image: 1.jpg
+    - image: afspraken maken 1974.JPG
       opacity: 0.7
-    - image: 2.jpg
+    - image: Texelkamp 1975.JPG
       opacity: 0.7
 order: 1973
 ---

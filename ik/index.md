@@ -5,13 +5,9 @@ videos:
     - id: 'FFszg3wp83Q'
       name: video fragment Ik voel dat ik het in me heb 1987
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
-      opacity: 0.7
 order: 1987
 ---
 
@@ -26,42 +22,42 @@ IK. Mijn, je diepste zelf, is de bron van creativiteit. En er ligt een enorme be
 En dan zie ik ‘Schoonheid’; de schoonheid van de creativiteit van bijvoorbeeld kunstenaars als Rembrandt, Karel Appel of Pollock, van foto’s van jongeren, van de ‘creaties’ die we elkaar aanbieden in gesprekken. In die schoonheid kunnen we met open armen klaar staan om als schuilplaats te dienen voor elkaar maar ook voor de ontmoedigden, de bezetenen. Ik wens iedereen naast de moed om dit te doen, schuilplaats te zijn, de moed te zien, dat er zo veel medemensen zijn, mooie mensen waar wij bij mogen schuilen. Die wederzijdsheid is helen. En als je goed kijkt is die wederkerigheid er altijd.
 Daarom hier het prachtige gedicht van Bart Moeyaert ‘Zo heel jij mij’ :
  
-ik steel van je,
-niet veel van je,
-of zal ik zeggen
-dat ik leen.
-je mist het niet.
-jij plukt de dag
-daar waar jij ligt.
-je wijst de weg
-met kruim.
-je maakt het huis
-blij bij de deur,
-omhelst haast
+ik steel van je,<br />
+niet veel van je,<br />
+of zal ik zeggen<br />
+dat ik leen.<br />
+je mist het niet.<br />
+jij plukt de dag<br />
+daar waar jij ligt.<br />
+je wijst de weg<br />
+met kruim.<br />
+je maakt het huis<br />
+blij bij de deur,<br />
+omhelst haast<br />
 het adres.
 
-je veegt de aarde
-uit ons bed,
-zoekt mij
-onder het laken,
-ziet wie ik ben.
-voorspelt geluk
-baadt mij in rust.
-zo heel jij mij
-al jaren,
-geneest mij
+je veegt de aarde<br />
+uit ons bed,<br />
+zoekt mij<br />
+onder het laken,<br />
+ziet wie ik ben.<br />
+voorspelt geluk<br />
+baadt mij in rust.<br />
+zo heel jij mij<br />
+al jaren,<br />
+geneest mij<br />
 door te zijn.
 
-jij spreekt de taal
-die ik versta
-hoort de seizoenen
-in mijn stem,
-aan mijn adem
-wat ik denk.
-jij kent de kunst
-van nu en hier.
-vandaar dat ik je
-leen, nee spaar,
+jij spreekt de taal<br />
+die ik versta<br />
+hoort de seizoenen<br />
+in mijn stem,<br />
+aan mijn adem<br />
+wat ik denk.<br />
+jij kent de kunst<br />
+van nu en hier.<br />
+vandaar dat ik je<br />
+leen, nee spaar,<br />
 of beter nog: bewaar.
  
 

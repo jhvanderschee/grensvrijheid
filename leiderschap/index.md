@@ -5,12 +5,10 @@ videos:
     - id: 'nyh5yLV93AE'
       name: video fragment Albanië 2009
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
+    - image: Albanië - bunkertjes.JPG
       opacity: 0.7
 order: 2009
 ---

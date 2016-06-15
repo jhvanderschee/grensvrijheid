@@ -5,15 +5,12 @@ videos:
     - id: 'VK6A-rgLdxI'
       name: video fragment Beekbergen 2008-2016
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
-      opacity: 0.7
 order: 2008
 ---
+
 Beste T, M, T, M, T, C, W, M, R, J, M, J, enz…,
 
 “…en als het morgen nu ineens ophoudt?” Zo’n uitspraak doet een heftige gemoedstoestand vermoeden, maar zo is het nu niet direct. Ik ben met een groepje jongeren in het huisje dat de Diaconie aan leden en vrienden van Vrijburg ter beschikking heeft gesteld. ‘Beekbergen’ in omgangstaal genaamd. En het is een paradijsje. Het huisje op een hectare bos is een legaat van een Remonstrants lid aan de Diaconie. Het doel is om het te verkopen, maar gezien de ingezakte huizenmarkt is spoedige verkoop niet waarschijnlijk. Vandaar de voorlopige ter beschikking stelling van het huisje aan leden en vrienden.

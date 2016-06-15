@@ -5,12 +5,10 @@ videos:
     - id: 'U8TUdTmkvuc'
       name: video fragment Slowakijereis 2008
       opacity: 0.5
-      max-res: true
+      max-res: false
       full-url: 
 images:
-    - image: 1.jpg
-      opacity: 0.7
-    - image: 2.jpg
+    - image: reizen.jpg
       opacity: 0.7
 order: 2008
 ---
