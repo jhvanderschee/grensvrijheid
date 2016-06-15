@@ -1,6 +1,6 @@
 ---
-title: 'Gelukkig zijn'
-image: gelukkig-zijn.png
+title: 'Oud-jong'
+image: oud-jong.png
 videos:
     - id: '7NEP98fNwZ4'
       name: video fragment Geluk 1996
