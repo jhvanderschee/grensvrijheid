@@ -2,7 +2,7 @@
 title: 'Genieten'
 image: genieten.png
 videos:
-    - id: '7NEP98fNwZ4'
+    - id: 'VK6A-rgLdxI'
       name: video fragment Beekbergen 2008-2016
       opacity: 0.5
       max-res: true
