@@ -7,9 +7,10 @@ body {
 	background: url('/img/bg.jpg') left top;
 	background-size: cover;
 	color: #3d3d3d;
+  min-width: 65vh;
 }
 a {color: #3d3d3d;}
-#pagenumber, #menutoggler, #slogan, #vorige, #volgende, #leesverder, #bladerterug, #menu, .caption, .btn {font-family: sans-serif; font-size: 11px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; z-index: 50;}
+#pagenumber, #menutoggler, #slogan, #vorige, #volgende, #leesverder, #bladerterug, #menu, .caption, .btn, #bekijkbrieven {font-family: sans-serif; font-size: 11px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; z-index: 50;}
 #menutoggler a, #slogan a {text-decoration: none; color: #3d3d3d;}
 #vorige a, #volgende a {color: #c4252a; text-decoration: none; border-bottom: 1px solid #c4252a; padding-left: 2px;}
 a img {border: 0;}
@@ -106,6 +107,7 @@ img {display: block;}
   transition: left .3s ease-in-out;
 
 }
+#innerinnerpage > div {height: 74vh;}
 #page p {margin-bottom: 1.4em;}
 #innerinnerpage.page1 {left: 0vh;}
 #innerinnerpage.page2 {left: -50vh;}
@@ -130,7 +132,19 @@ img {display: block;}
     cursor: pointer;
 }
 .btn {position: relative; margin: 0; left: auto; bottom: auto; display: inline-block;}
-#bladerterug {display: none; font-size: 2vh; padding: 1vh 1.3vh 1vh 1.5vh; line-height: 1.8vh; top: 8vh; bottom: auto; left: calc((100vw - 65vh)/2 + 9.5vh);}
+#bladerterug {display: none; font-size: 2vh; padding: 0.9vh 1.3vh 1.1vh 1.5vh; line-height: 1.8vh; top: 8vh; bottom: auto; left: calc((100vw - 65vh)/2 + 9.5vh);}
+#bekijkbrieven {
+    white-space: nowrap; 
+    text-decoration: none; 
+    background: #c4252a; 
+    color: #eee; 
+    padding: 1vh 2vh; 
+    display: inline-block; 
+    font-size: 1.3vh; 
+    line-height: 1.8vh; 
+    letter-spacing: .3vh;
+    cursor: pointer;
+}
 
 #lightbox {cursor: pointer; opacity: 0; position: absolute; top: 0; left: 0; background: rgba(0,0,0,0.9); height: 100%; width: 100%; z-index: -1;
   -webkit-transition: opacity .3s ease-in-out;
@@ -154,3 +168,36 @@ img {display: block;}
 #menu td {padding: 5vh 5vw; vertical-align: middle; text-align: center;}
 #menu li {list-style: none; line-height: 3em;}
 #menu li a {color: white; text-decoration: none;}
+
+
+@media all and (max-width: 70vh) {
+ #pagenumber {position: absolute; bottom: 15px; right: 15px;}
+ #menutoggler {position: absolute; top: 15px; left: 15px;}
+ #slogan {position: absolute; bottom: 15px; left: 15px;}
+ #vorige {left: -27px;}
+ #volgende {right: -27px;}
+ #title {position: absolute; top: 15vh; right: calc(50vw + 32.5vh - 30px); z-index: 50;}
+ #page {font-size: 13px; max-width: 100%; line-height: 1.4em;}
+ #bladerterug {left: 0; margin: 0;}
+ #leesverder {left: auto; right: 0; margin: 0;}
+}
+@media all and (max-width: 65vh) {
+ #page {width: 100vw; position: absolute; left: 0; top: 0; margin: 0; height: 100vh;}
+ #innerpage {margin: 50px 10vw; height: 85vh;}
+ #innerinnerpage {height: 80vh;}
+ #innerinnerpage > div {height: 80vh;}
+ #innerinnerpage.page1 {left: 0vh;}
+ #innerinnerpage.page2 {left: -80vw}
+ #innerinnerpage.page3 {left: -160vw}
+ #innerinnerpage.page4 {left: -240vw}
+ #innerinnerpage.page5 {left: -320vw}
+ #innerinnerpage.page6 {left: -400vw}
+ #innerinnerpage.page7 {left: -480vw}
+ #innerinnerpage.page8 {left: -560vw}
+ #innerinnerpage.page9 {left: -640vw}
+ #innerinnerpage.page10 {left: -720vw}
+ #innerinnerpage.page11 {left: -800vw}
+ #innerinnerpage.page12 {left: -880vw}
+ #innerinnerpage.page13 {left: -960vw}
+ #innerinnerpage.page14 {left: -1040vw}
+}
