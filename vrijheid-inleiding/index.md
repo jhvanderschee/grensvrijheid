@@ -48,5 +48,5 @@ En nog iets. Vrijheid, verantwoordelijkheid en vertrouwen geven, betekent dus oo
 
 Er is maar één ding dat ik van te voren bedenk, aan iedereen duidelijk wil maken, en dat is dat we hier vanuit vrijheid werken, dat is bevrijd van normatief denken, culturele dwang en strafangst. Dat is er voor elkaar zijn vanuit een open houding, dat is verantwoordelijkheid en vertrouwen.
 
-Met een hartelijke groet, 
+Met een hartelijke groet, <br />
 Dik
