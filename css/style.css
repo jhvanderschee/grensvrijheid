@@ -115,6 +115,14 @@ img {display: block;}
 #innerinnerpage.page4 {left: -150vh;}
 #innerinnerpage.page5 {left: -200vh;}
 #innerinnerpage.page6 {left: -250vh;}
+#innerinnerpage.page7 {left: -300vw}
+#innerinnerpage.page8 {left: -350vw}
+#innerinnerpage.page9 {left: -400vw}
+#innerinnerpage.page10 {left: -450vw}
+#innerinnerpage.page11 {left: -500vw}
+#innerinnerpage.page12 {left: -550vw}
+#innerinnerpage.page13 {left: -600vw}
+#innerinnerpage.page14 {left: -650vw}
 .btn, #bladerterug, #leesverder {
     white-space: nowrap; 
     text-decoration: none; 
