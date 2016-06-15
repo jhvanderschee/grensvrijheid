@@ -1,8 +1,8 @@
 ---
 title: 'Ik'
-image: gelukkig-zijn.png
+image: ik.png
 videos:
-    - id: '7NEP98fNwZ4'
+    - id: 'FFszg3wp83Q'
       name: video fragment Ik voel dat ik het in me heb 1987
       opacity: 0.5
       max-res: true
