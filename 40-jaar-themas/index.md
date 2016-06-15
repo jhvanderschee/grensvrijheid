@@ -1,7 +1,7 @@
 ---
 title: Brief aan iedereen - 40 jaar thema's
 image: 40jaarthemas.png
-youtube: 
+videos: 
 images:
 order: 2016
 ---

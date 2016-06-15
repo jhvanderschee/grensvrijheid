@@ -1,12 +1,12 @@
 ---
 title: 'Behind walls'
 image: behindwalls.png
-youtube: 
-    id: 'SvygpM4jdRI'
-    name: video fragment DDR inside information
-    opacity: 0.5
-    max-res: false
-    full-url: https://archief.grensvrijheid.nl/index.php/s/L2nGiQOZaOQ0QH1
+videos: 
+    - id: 'SvygpM4jdRI'
+      name: video fragment DDR inside information
+      opacity: 0.5
+      max-res: false
+      full-url: https://archief.grensvrijheid.nl/index.php/s/L2nGiQOZaOQ0QH1
 images:
     - image: foto1.JPG
       name: 1989 04 FOTO'S Berlijn

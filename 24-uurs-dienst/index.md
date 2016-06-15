@@ -1,12 +1,12 @@
 ---
 title: '24-uurs dienst'
 image: 24uursdienst.png
-youtube: 
-    id: '0a-ettfPJok'
-    name: VIDEO
-    opacity: 0.5
-    max-res: true
-    full-url: 
+videos:
+    - id: '0a-ettfPJok'
+      name: VIDEO
+      opacity: 0.5
+      max-res: true
+      full-url: 
 images:
     - image: 1.jpg
       opacity: 0.7

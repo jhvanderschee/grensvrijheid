@@ -1,12 +1,12 @@
 ---
 title: 'Bliksem'
 image: bliksem.png
-youtube: 
-    id: 'wx8iuEc6YAU'
-    name: video fragment Juggs in Cuba
-    opacity: 0.5
-    max-res: true
-    full-url: 
+videos: 
+    - id: 'wx8iuEc6YAU'
+      name: video fragment Juggs in Cuba
+      opacity: 0.5
+      max-res: false
+      full-url: https://archief.grensvrijheid.nl/index.php/s/4GgEbMS43xFbh8q
 images:
     - image: DSC04112.jpg
       opacity: 0.7

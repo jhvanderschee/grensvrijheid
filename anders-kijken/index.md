@@ -1,12 +1,12 @@
 ---
 title: 'Anders kijken, anders zijn'
 image: anderskijken.png
-youtube: 
-    id: 'yACo5eoLJF0'
-    name: 'video fragment Op zoek naar wat anders'
-    opacity: 0.5
-    max-res: false
-    full-url: https://archief.grensvrijheid.nl/index.php/s/mvE4inC2XXuvF5m
+videos: 
+    - id: 'yACo5eoLJF0'
+      name: 'video fragment Op zoek naar wat anders'
+      opacity: 0.5
+      max-res: false
+      full-url: https://archief.grensvrijheid.nl/index.php/s/mvE4inC2XXuvF5m
 images:
 order: 1988
 ---
