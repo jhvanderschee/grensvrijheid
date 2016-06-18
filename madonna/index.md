@@ -6,7 +6,7 @@ videos:
       name: video fragment Madonna en interviews 1991
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/lEw7kjlJCPajj1o
 images:
     - image: So, now what....jpg
       opacity: 0.7

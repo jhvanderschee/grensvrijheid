@@ -6,7 +6,7 @@ videos:
       name: video fragment Waar de geest waait tocht het 1989
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/Kw7hgZmmIt4Oddl
 images:
 order: 1989
 ---

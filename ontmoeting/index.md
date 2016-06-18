@@ -6,7 +6,7 @@ videos:
       name: video fragment De ontmoeting 1985
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/kClyxnKw3yvAkk2
 images:
     - image: ingepakte gashouder Christo 2013 a.JPG
       opacity: 0.7

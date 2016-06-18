@@ -6,7 +6,7 @@ videos:
       name: video fragment alleen maar toch samen over oud jong
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/73Qf3uIp7JwCOMm
 images:
     - image: oud-jong maaltijd in Vrijburgkelder.jpg
       opacity: 0.7

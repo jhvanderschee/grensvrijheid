@@ -6,7 +6,7 @@ videos:
       name: 'video fragment Verkiezingen: geesten 2003'
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/rKrM7OcD4CZl6eA
 images:
 order: 2003
 ---

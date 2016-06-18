@@ -36,7 +36,7 @@ $(function(){
 });
 </script>
 </head>
-<body>
+<body class="{{ page.title | slugify }}">
 <div id="menutoggler"><a href="#">menu</a></div>
 <div id="slogan"><a href="/">40 jaar vrijzinnig jeugdwerk</a></div>
 <div id="pagenumber">{% if page.title != 'Home' %}{{ this_i }}/{{ num_of_pages | minus:1 }}{% endif %}</div>
@@ -73,6 +73,24 @@ $(function(){
 </td></tr></table>
 
 <script>
+
+var ie = (function(){
+
+    var undef,
+        v = 3,
+        div = document.createElement('div'),
+        all = div.getElementsByTagName('i');
+
+    while (
+        div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
+        all[0]
+    );
+
+    return v > 4 ? v : undef;
+
+}());
+if(ie < 10) alert('Deze site werkt niet in uw browser. Open deze site a.u.b. in Firefox of Chrome.');
+
 function menu() {
 	$('#menu').css('z-index','99');
 	$('#menu').addClass('visible');
@@ -96,8 +114,9 @@ function checkpaging() {
 	var p1 = $('#innerinnerpage > *:last-child').offset();
 	var p2 = $('#innerpage').offset();
 	if(p1.left<(p2.left+20)) {
-		$('#leesverder').remove();
+		$('#leesverder').hide();
 	}
+	else if (!$('#innerinnerpage').hasClass('page2') && $('body').hasClass('home')) $('#leesverder').hide();
 	else $('#leesverder').css('opacity','1');
 	//console.log(p1.left+'<'+(p2.left+20));
 	$('#innerinnerpage > *:last-child').remove();

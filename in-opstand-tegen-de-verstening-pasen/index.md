@@ -3,10 +3,10 @@ title: 'In opstand tegen de verstening: Pasen'
 image: opstand.png
 videos:
     - id: 'EbRxSAX9jv0'
-      name: in opstand tegen de verstening; kort filmpje
+      name: in opstand tegen de verstening
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/7kR8cxhbQOSc8Wo
 images:
     - image: in opstand tegen de verstening foto-1.JPG
       opacity: 0.7

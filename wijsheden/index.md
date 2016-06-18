@@ -6,7 +6,7 @@ videos:
       name: video fragment sleutelhoudersuitje 1994 LOL
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/Uvb8jF6Ofxs7vkW
 images:
 order: 1994
 ---

@@ -93,6 +93,7 @@ img {display: block;}
 #innerpage {margin: 7.5vh 7.5vh; height: calc(75vh); overflow: hidden;}
 #innerinnerpage {
     -webkit-column-width: 50vh; /* Chrome, Safari, Opera */
+    -moz-column-width: 50vh;
     column-width: 50vh;
     height: calc(74vh);
     position: relative;

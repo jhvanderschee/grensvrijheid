@@ -6,7 +6,7 @@ videos:
       name: video fragment Geluk 1996
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/0j5wfkyPK0FJJt9
 images:
 order: 1996
 ---

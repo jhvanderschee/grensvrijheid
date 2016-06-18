@@ -6,7 +6,7 @@ videos:
       name: video fragment Albanië 2009
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/TICQMPVn6sD8mca
 images:
     - image: Albanië - bunkertjes.JPG
       opacity: 0.7

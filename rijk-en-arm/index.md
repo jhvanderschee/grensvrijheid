@@ -6,7 +6,7 @@ videos:
       name: video fragment arm en rijk 1985
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/8z3OOTak81rj8pe
 images:
     - image: arm en rijk 1985.jpg
       opacity: 0.7

@@ -6,7 +6,7 @@ videos:
       name: video fragment Kabouters bestaan nog 1988
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/fWyUAgVszgCWTfC
 images:
 order: 1988
 ---

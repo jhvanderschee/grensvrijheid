@@ -3,7 +3,7 @@ title: '24-uurs dienst'
 image: 24uursdienst.png
 videos:
     - id: '0a-ettfPJok'
-      name: VIDEO
+      name: 24 uurs dienst
       opacity: 0.5
       max-res: true
       full-url: 

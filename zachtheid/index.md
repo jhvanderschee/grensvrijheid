@@ -6,7 +6,7 @@ videos:
       name: video fragment Papa 1987
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/avTUzuwNHiY2zRN
 images:
 order: 1987
 ---

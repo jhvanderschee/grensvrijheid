@@ -6,7 +6,7 @@ videos:
       name: video fragment Promofilm Jeugdwerk 1985
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/s4eqfP4vMWlQHYf
 images:
 order: 1985
 ---

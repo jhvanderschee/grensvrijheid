@@ -6,7 +6,7 @@ videos:
       name: video fragment De muur is er intussen nog 1986
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/xRFbXOkKqyZ6BFU
 images:
     - image: Oost-Europa-1987.jpg
       opacity: 0.7

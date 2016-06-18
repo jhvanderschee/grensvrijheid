@@ -6,7 +6,7 @@ videos:
       name: video fragment Slowakijereis 2008
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/7CgN5SnGrFQaxak
 images:
     - image: reizen.jpg
       opacity: 0.7

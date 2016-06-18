@@ -6,7 +6,7 @@ videos:
       name: video fragment Noord Ierland film 2011
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/dWqY7xIVQRx21zB
 images:
     - image: Belfast Black Taxis.jpg
       opacity: 0.7

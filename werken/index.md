@@ -6,7 +6,7 @@ videos:
       name: video fragment Diner Coalition over werk 1997
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/5kDQmUkhWGl6x7l
 images:
 order: 1997
 ---

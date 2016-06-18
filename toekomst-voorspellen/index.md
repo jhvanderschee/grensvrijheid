@@ -6,7 +6,7 @@ videos:
       name: video fragment zomerreis 2000 contrasten
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/Qdviwt7s7pdue2E
 images:
 order: 2000
 ---

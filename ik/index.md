@@ -6,7 +6,7 @@ videos:
       name: video fragment Ik voel dat ik het in me heb 1987
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/7lQB0kr4lixt3nJ
 images:
 order: 1987
 ---

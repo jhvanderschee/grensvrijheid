@@ -6,7 +6,7 @@ videos:
       name: video fragment Belfast interviews kids 2004
       opacity: 0.5
       max-res: false
-      full-url: 
+      full-url: https://archief.grensvrijheid.nl/index.php/s/ZeueZz8xG3YhPQA
 images:
     - image: Bij Marokkanen in de achtertuin 2011.jpg
       opacity: 0.7
