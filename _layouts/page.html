@@ -36,7 +36,7 @@ $(function(){
 });
 </script>
 </head>
-<body class="{{ page.title | slugify }}" onload="checkpaging()">
+<body class="{{ page.title | slugify }}">
 <div id="menutoggler"><a href="#">menu</a></div>
 <div id="slogan"><a href="/">40 jaar vrijzinnig jeugdwerk</a></div>
 <div id="pagenumber">{% if page.title != 'Home' %}{{ this_i }}/{{ num_of_pages | minus:1 }}{% endif %}</div>
@@ -114,36 +114,22 @@ function lightbox(el) {
 	}
 }
 function checkpaging() {
-	$('#leesverder').show();
-	$('#innerinnerpage').append('<div style="height: 1px; width: 1px; position: relative; bottom: 1.4em;"></div>');
-	var p1 = $('#innerinnerpage > *:last-child').position();
-	var p2 = $('#innerpage').position();
-	if(p1.left<(p2.left+20)) {
-		$('#leesverder').hide();
-	}
-	else if (!$('#innerinnerpage').hasClass('page2') && $('body').hasClass('home')) $('#leesverder').hide();
+	if (!$('#innerinnerpage').hasClass('page2') && $('body').hasClass('home')) $('#leesverder').hide();
 	else $('#leesverder').show();
-	//console.log('if'+p1.left+'<'+(p2.left+20)+'hide');
-	$('#innerinnerpage > *:last-child').remove();
 }
+checkpaging()
+
 function nextpage() {
-	$('#innerinnerpage').append('<div style="height: 1px; width: 1px; position: relative; bottom: 1.4em;"></div>');
-	var p1 = $('#innerinnerpage > *:last-child').position();
-	var p2 = $('#innerpage').position();
-	if(p1.left>p2.left) {
-		if($('#innerinnerpage').hasClass('page7')) $('#innerinnerpage').addClass('page8');
-		if($('#innerinnerpage').hasClass('page6')) $('#innerinnerpage').addClass('page7');
-		if($('#innerinnerpage').hasClass('page5')) $('#innerinnerpage').addClass('page6');
-		if($('#innerinnerpage').hasClass('page4')) $('#innerinnerpage').addClass('page5');
-		if($('#innerinnerpage').hasClass('page3')) $('#innerinnerpage').addClass('page4');
-		if($('#innerinnerpage').hasClass('page2')) $('#innerinnerpage').addClass('page3');
-		if($('#innerinnerpage').hasClass('page1')) $('#innerinnerpage').addClass('page2');	
-	}
-	if(p1.left<(p2.left+$('#innerinnerpage').width()+20)) {
-		$('#leesverder').hide();
-	}
-	//console.log(p1.left+'<'+(p2.left+$('#innerinnerpage').width()+20));
-	$('#innerinnerpage > *:last-child').remove();
+	if(($('#innerinnerpage').height()+parseInt($('#innerinnerpage').css('top'), 10))<($('#innerpage').height()+$('#innerpage').height())) $('#leesverder').hide();
+
+	if($('#innerinnerpage').hasClass('page7')) $('#innerinnerpage').addClass('page8');
+	else if($('#innerinnerpage').hasClass('page6')) $('#innerinnerpage').addClass('page7');
+	else if($('#innerinnerpage').hasClass('page5')) $('#innerinnerpage').addClass('page6');
+	else if($('#innerinnerpage').hasClass('page4')) $('#innerinnerpage').addClass('page5');
+	else if($('#innerinnerpage').hasClass('page3')) $('#innerinnerpage').addClass('page4');
+	else if($('#innerinnerpage').hasClass('page2')) $('#innerinnerpage').addClass('page3');
+	else if($('#innerinnerpage').hasClass('page1')) $('#innerinnerpage').addClass('page2');	
+
 	$('#bladerterug').show();
 } 
 function prevpage() {
@@ -169,6 +155,7 @@ function externalLinks() {
   }
 }
 externalLinks();
+
 </script>
 <script type='text/javascript' src='/js/grayscale.js'></script>
 <script type='text/javascript' src="/js/functions.js"></script>

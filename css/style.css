@@ -90,41 +90,58 @@ img {display: block;}
 }
 
 #page {height: 90vh; margin: 5vh 0; width: 65vh; background: rgba(255,255,255,0.95); position: absolute; top: 0; z-index: 5; left: calc((100vw - 65vh)/2); font-size: 1.6vh; line-height: 2.1vh;}
-#innerpage {margin: 7.5vh 7.5vh; height: calc(75vh); overflow: hidden;}
-#innerinnerpage {
-    -webkit-column-width: 50vh; /* Chrome, Safari, Opera */
-    -moz-column-width: 50vh;
-    column-width: 50vh;
-    height: calc(74vh);
-    position: relative;
-    left: 0px;
-    width: auto;
-    -webkit-column-gap: 0px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 0px; /* Firefox */
-    column-gap: 0px;
-
-  -webkit-transition: left .3s ease-in-out;
-  -moz-transition: left .3s ease-in-out;
-  -o-transition: left .3s ease-in-out;
-  transition: left .3s ease-in-out;
-
+#innerpage {margin: 7.5vh 7.5vh; overflow: hidden; position: absolute; height: 75vh;}
+#innerpage:before {
+content: "";
+height: 30px; 
+display: block;
+position: absolute;
+width: 50vh;
+z-index: 99;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&1+0,0+100 */
+background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
 }
+#innerpage:after {
+content: "";
+height: 30px; 
+display: block;
+position: absolute;
+width: 50vh;
+top: calc(75vh - 30px);
+z-index: 99;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0+100,1+100 */
+background: -moz-linear-gradient(top,  rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+#innerinnerpage {padding-top: 20px; padding-bottom: 20px; position: relative; left: 0px; width: auto;
+  -webkit-transition: top .3s ease-in-out;
+  -moz-transition: top .3s ease-in-out;
+  -o-transition: top .3s ease-in-out;
+  transition: top .3s ease-in-out;
+}
+
 #innerinnerpage > div {height: 74vh;}
-#page p {margin-bottom: 1.4em;}
-#innerinnerpage.page1 {left: 0vh;}
-#innerinnerpage.page2 {left: -50vh;}
-#innerinnerpage.page3 {left: -100vh;}
-#innerinnerpage.page4 {left: -150vh;}
-#innerinnerpage.page5 {left: -200vh;}
-#innerinnerpage.page6 {left: -250vh;}
-#innerinnerpage.page7 {left: -300vw}
-#innerinnerpage.page8 {left: -350vw}
-#innerinnerpage.page9 {left: -400vw}
-#innerinnerpage.page10 {left: -450vw}
-#innerinnerpage.page11 {left: -500vw}
-#innerinnerpage.page12 {left: -550vw}
-#innerinnerpage.page13 {left: -600vw}
-#innerinnerpage.page14 {left: -650vw}
+#page p {margin-bottom: 2.1vh;}
+#innerinnerpage.page1 {top: 0vh;}
+#innerinnerpage.page2 {top: -71vh;}
+#innerinnerpage.page3 {top: -142vh;}
+#innerinnerpage.page4 {top: -213vh;}
+#innerinnerpage.page5 {top: -284vh;}
+#innerinnerpage.page6 {top: -355vh;}
+#innerinnerpage.page7 {top: -426vh}
+#innerinnerpage.page8 {top: -497vh}
+#innerinnerpage.page9 {top: -568vw}
+#innerinnerpage.page10 {top: -639vw}
+#innerinnerpage.page11 {top: -710vw}
+#innerinnerpage.page12 {top: -781vw}
+#innerinnerpage.page13 {top: -852vw}
+#innerinnerpage.page14 {top: -923vw}
 .btn, #bladerterug, #leesverder {
     white-space: nowrap; 
     text-decoration: none; 
@@ -201,20 +218,6 @@ img {display: block;}
 @media all and (max-width: 65vh) {
  #page {width: 100vw; position: absolute; left: 0; top: 0; margin: 0; height: 100vh;}
  #innerpage {margin: 50px 10vw; height: 85vh;}
- #innerinnerpage {height: 80vh;}
  #innerinnerpage > div {height: 80vh;}
- #innerinnerpage.page1 {left: 0vh;}
- #innerinnerpage.page2 {left: -80vw}
- #innerinnerpage.page3 {left: -160vw}
- #innerinnerpage.page4 {left: -240vw}
- #innerinnerpage.page5 {left: -320vw}
- #innerinnerpage.page6 {left: -400vw}
- #innerinnerpage.page7 {left: -480vw}
- #innerinnerpage.page8 {left: -560vw}
- #innerinnerpage.page9 {left: -640vw}
- #innerinnerpage.page10 {left: -720vw}
- #innerinnerpage.page11 {left: -800vw}
- #innerinnerpage.page12 {left: -880vw}
- #innerinnerpage.page13 {left: -960vw}
- #innerinnerpage.page14 {left: -1040vw}
+ #innerpage:after {top: calc(85vh - 30px);}
 }
