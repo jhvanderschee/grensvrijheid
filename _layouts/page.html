@@ -81,7 +81,10 @@ function msieversion()
     if (msie > 0) // If Internet Explorer, return version number
     {
         var ie = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
-        if(ie < 10) alert('Deze site werkt niet in uw browser. Open deze site a.u.b. in Firefox of Chrome.');
+        if(ie < 10) {
+        	alert('Deze site werkt niet in uw browser. Open deze site a.u.b. in Firefox of Chrome.');
+        	window.location.href='https://www.mozilla.org/nl/firefox';
+        }
     }
     else  // If another browser, return 0
     {
