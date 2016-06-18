@@ -36,7 +36,7 @@ $(function(){
 });
 </script>
 </head>
-<body class="{{ page.title | slugify }}">
+<body class="{{ page.title | slugify }}" onload="checkpaging()">
 <div id="menutoggler"><a href="#">menu</a></div>
 <div id="slogan"><a href="/">40 jaar vrijzinnig jeugdwerk</a></div>
 <div id="pagenumber">{% if page.title != 'Home' %}{{ this_i }}/{{ num_of_pages | minus:1 }}{% endif %}</div>
@@ -60,7 +60,7 @@ $(function(){
 
 <a id="leesverder" href="#" onclick="nextpage()">lees verder</a>
 <a id="bladerterug" href="#" onclick="prevpage()">&lsaquo;</a>
-<script>$('#leesverder').css('opacity','0');</script>
+
 
 
 <table id="lightbox" cellspacing="0" cellpadding="0" onclick="$('#lightbox').removeClass('visible'); $('#lightbox iframe').attr('src','');setTimeout(function(){ $('#lightbox').css('z-index','-1'); }, 300);"><tr><td><div style="display: inline-block;"><a class="caption" style="float: right;">sluiten</a>{% if page.images[0] %}<div id="lb_img1"><img src="{{ page.images[0].image }}" onclick="event.stopPropagation();" /><span class="caption">{{ page.images[0].name }} | <a href="{{ page.images[0].full-url }}" target="_blank">meer foto's</a></span></div>{% endif %}{% if page.images[1] %}<div id="lb_img2"><img src="{{ page.images[1].image }}" onclick="event.stopPropagation();" /><span class="caption">&nbsp;</span></div>{% endif %}<div id="lb_youtube"><iframe width="853" height="480" src="" frameborder="0" allowfullscreen></iframe><span class="caption">{{ page.videos[0].name }}{% if page.videos[0].full-url %} | <a href="{{ page.videos[0].full-url }}" target="_blank">volledige video</a>{% endif %}</span></div><div></td></tr></table>
@@ -111,21 +111,22 @@ function lightbox(el) {
 	}
 }
 function checkpaging() {
+	$('#leesverder').show();
 	$('#innerinnerpage').append('<div style="height: 1px; width: 1px; position: relative; bottom: 1.4em;"></div>');
-	var p1 = $('#innerinnerpage > *:last-child').offset();
-	var p2 = $('#innerpage').offset();
+	var p1 = $('#innerinnerpage > *:last-child').position();
+	var p2 = $('#innerpage').position();
 	if(p1.left<(p2.left+20)) {
 		$('#leesverder').hide();
 	}
 	else if (!$('#innerinnerpage').hasClass('page2') && $('body').hasClass('home')) $('#leesverder').hide();
-	else $('#leesverder').css('opacity','1');
-	//console.log(p1.left+'<'+(p2.left+20));
+	else $('#leesverder').show();
+	//console.log('if'+p1.left+'<'+(p2.left+20)+'hide');
 	$('#innerinnerpage > *:last-child').remove();
 }
 function nextpage() {
 	$('#innerinnerpage').append('<div style="height: 1px; width: 1px; position: relative; bottom: 1.4em;"></div>');
-	var p1 = $('#innerinnerpage > *:last-child').offset();
-	var p2 = $('#innerpage').offset();
+	var p1 = $('#innerinnerpage > *:last-child').position();
+	var p2 = $('#innerpage').position();
 	if(p1.left>p2.left) {
 		if($('#innerinnerpage').hasClass('page7')) $('#innerinnerpage').addClass('page8');
 		if($('#innerinnerpage').hasClass('page6')) $('#innerinnerpage').addClass('page7');
@@ -155,7 +156,7 @@ function prevpage() {
 	}
 	$('#leesverder').show();
 } 
-checkpaging()
+
 
 //open external links in a new window
 function externalLinks() {
