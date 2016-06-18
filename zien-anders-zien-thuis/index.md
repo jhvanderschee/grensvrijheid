@@ -1,6 +1,6 @@
 ---
 title: 'Zien - anders zien - thuis'
-image: zachtheid.png
+image: zien.png
 videos:
     - id: 'Rr4sYAefFlU'
       name: video fragment Of je zien ken hoe ik woon 1987

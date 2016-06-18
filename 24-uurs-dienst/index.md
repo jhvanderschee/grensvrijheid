@@ -9,9 +9,13 @@ videos:
       full-url: 
 images:
     - image: 1.jpg
+      name: foto 1
       opacity: 0.7
+      full-url: 
     - image: 2.jpg
+      name: foto 2
       opacity: 0.7
+      full-url: 
 order: 2005
 ---
 
