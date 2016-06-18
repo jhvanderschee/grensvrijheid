@@ -129,19 +129,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
 #innerinnerpage > div {height: 74vh;}
 #page p {margin-bottom: 2.1vh;}
 #innerinnerpage.page1 {top: 0vh;}
-#innerinnerpage.page2 {top: -71vh;}
-#innerinnerpage.page3 {top: -142vh;}
-#innerinnerpage.page4 {top: -213vh;}
-#innerinnerpage.page5 {top: -284vh;}
-#innerinnerpage.page6 {top: -355vh;}
-#innerinnerpage.page7 {top: -426vh}
-#innerinnerpage.page8 {top: -497vh}
-#innerinnerpage.page9 {top: -568vw}
-#innerinnerpage.page10 {top: -639vw}
-#innerinnerpage.page11 {top: -710vw}
-#innerinnerpage.page12 {top: -781vw}
-#innerinnerpage.page13 {top: -852vw}
-#innerinnerpage.page14 {top: -923vw}
+#innerinnerpage.page2 {top: -73vh;}
+#innerinnerpage.page3 {top: -146vh;}
+#innerinnerpage.page4 {top: -219vh;}
+#innerinnerpage.page5 {top: -292vh;}
+#innerinnerpage.page6 {top: -365vh;}
+#innerinnerpage.page7 {top: -438vh}
+#innerinnerpage.page8 {top: -511vh}
+#innerinnerpage.page9 {top: -584vw}
+#innerinnerpage.page10 {top: -657vw}
+#innerinnerpage.page11 {top: -730vw}
+#innerinnerpage.page12 {top: -803vw}
+#innerinnerpage.page13 {top: -876vw}
+#innerinnerpage.page14 {top: -949vw}
 .btn, #bladerterug, #leesverder {
     white-space: nowrap; 
     text-decoration: none; 
