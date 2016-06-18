@@ -9,11 +9,17 @@ videos:
       full-url: https://archief.grensvrijheid.nl/index.php/s/dWqY7xIVQRx21zB
 images:
     - image: Belfast Black Taxis.jpg
+      name: Belfast Black Taxis
       opacity: 0.7
+      full-url: https://archief.grensvrijheid.nl/index.php/apps/galleryplus?view=galleryplus#Beeldarchief%2F1998%2010%20FOTO'S%20Belfast%20-dia's-
     - image: Belfast Peace Wall.jpg
+      name: Belfast Peace Wall
       opacity: 0.7
+      full-url: https://archief.grensvrijheid.nl/index.php/apps/galleryplus?view=galleryplus#Beeldarchief%2F1998%2010%20FOTO'S%20Belfast%20-dia's-
     - image: Belfast religious about coffee.jpg
+      name: Belfast religious about coffee
       opacity: 0.7
+      full-url: https://archief.grensvrijheid.nl/index.php/apps/galleryplus?view=galleryplus#Beeldarchief%2F1998%2010%20FOTO'S%20Belfast%20-dia's-
 order: 2011
 ---
 

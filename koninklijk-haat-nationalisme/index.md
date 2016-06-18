@@ -4,9 +4,13 @@ image: koninklijk.png
 videos:
 images:
     - image: afspraken maken 1974.JPG
+      name: afspraken maken 1974
       opacity: 0.7
+      full-url: https://archief.grensvrijheid.nl/index.php/apps/galleryplus/s/ImKZKanlyD2zyLe?path=%2F1989%2004%20FOTO%27S%20Berlijn#1974-1975%20FOTO'S%20weekends%20Hoorneboeg%20en%20Huizen%2C%20reunie%20Texelkamp
     - image: Texelkamp 1975.JPG
+      name: Texelkamp 1975
       opacity: 0.7
+      full-url: https://archief.grensvrijheid.nl/index.php/apps/galleryplus/s/ImKZKanlyD2zyLe?path=%2F1989%2004%20FOTO%27S%20Berlijn#1975%20FOTO'S%20zomerkamp%20texel
 order: 1973
 ---
 

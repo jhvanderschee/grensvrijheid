@@ -9,7 +9,9 @@ videos:
       full-url: https://archief.grensvrijheid.nl/index.php/s/xRFbXOkKqyZ6BFU
 images:
     - image: Oost-Europa-1987.jpg
+      name: Oost Europa 1987
       opacity: 0.7
+      full-url: https://archief.grensvrijheid.nl/index.php/apps/galleryplus/s/ImKZKanlyD2zyLe?path=%2F1989%2004%20FOTO%27S%20Berlijn#1989%2004%20FOTO'S%20Berlijn
 order: 1986
 ---
 Beste A, R, S, M, M, Y, S, B, T,
