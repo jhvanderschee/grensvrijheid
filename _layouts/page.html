@@ -21,6 +21,7 @@
 <link rel="apple-touch-icon" href="/img/icon-196x196.png"/>
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" rel="stylesheet">
 <script>
 $(function(){
 	$('#menutoggler').click(function(){
@@ -43,7 +44,7 @@ $(function(){
 
 
 {% if page.title != 'Home' %}<a id="logo" href="/index.html"><img src="/img/logo.png" /></a>{% endif %}
-{% if page.image %}<a id="title" href="index.html"><img src="{{ page.image }}" /></a>{% endif %}
+{% if page.image %}<a id="title" href="index.html"><img src="{{ page.image }}" /></a>{% else %}<a id="title" href="index.html">{{ page.title | downcase }}</a>{% endif %}
 {% if page.images[0] %}<a id="img1" onclick="lightbox('img1')"><img src="{{ page.images[0].image }}" style="opacity: {{ page.images[0].opacity }};" /></a>{% endif %}
 {% if page.images[1] %}<a id="img2" onclick="lightbox('img2')"><img src="{{ page.images[1].image }}" style="opacity: {{ page.images[1].opacity }};" /></a>{% endif %}
 {% if page.images[1] %}<div id="placeholder"></div>{% endif %}
