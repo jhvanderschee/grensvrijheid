@@ -5,3 +5,8 @@ defaults:
       layout: 'page'
 
 title: 'Project GRENSVRIJHEID 40 jaar vrijzinnig jeugdwerk'
+
+collections:
+  letters:
+    output: true
+    permalink: /:path/

@@ -1,11 +1,4 @@
-{% assign sorted_pages2 = site.pages | sort: 'title' %}
-
-{% assign sorted_pages = "" | split: ""  %}
-{% for item in sorted_pages2 %}
-	{% unless item.url == "/biggie-smalls.json" %}	
-		{% assign sorted_pages = sorted_pages | push: item %}
-	{% endunless %}	
-{% endfor %}
+{% assign sorted_pages = site.letters | sort: 'title' %}
 
 {% for item in sorted_pages %}
     {% if item.url == page.url %}
@@ -80,7 +73,7 @@ $(function(){
 
 <a onclick="$('#menu').removeClass('visible'); setTimeout(function(){ $('#menu').css('z-index','-1'); }, 300);" id="closemenu"><span class="hidemobile">sluiten</span><span class="onlymobile">x</span></a>
 <ul>
-{% for item in sorted_pages %}{% if item.title != 'Home' %}<li {% if item.url == page.url %}class="selected"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>{% endif %}{% endfor %}
+{% for item in site.letters %}<li {% if item.url == page.url %}class="selected"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
 </ul>     
 
 </td></tr></table></li></ul></div>
