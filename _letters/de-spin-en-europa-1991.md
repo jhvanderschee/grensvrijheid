@@ -2,8 +2,8 @@
 title: de spin en Europa 1991
 image:
 videos:
-  - id: 0a-ettfPJok
-    name: 24 uurs dienst
+  - id:
+    name:
     opacity: 0.5
     max-res: true
     full-url:
