@@ -23,9 +23,10 @@ images:
 ---
 
 
-De spin en Europa 1991
+Beste C, K. T, S, H, R,
 
-Het is januari 1991. Een groepje jongeren van het jeugdwerk van Doopsgezinden, Remonstranten en Vrijzinnige Hervormden kopen een kaart van Europa om een overzicht te krijgen van het Europa dat in 1992 &eacute;&eacute;n zou moeten zijn. Zij zoeken de uiterste randen af van de kaart, als een spin die zoekt waar ze haar eerste draden aan kan vastmaken om zo een web te kunnen beginnen. Ze willen een verbinding leggen tussen het leventje in Amsterdam en dat ‘ene’ Europa. En dat is niet alleen West-Europa. West tegen Oost lijkt hen een gedateerde eenheidsgedachte. Ze willen verbindingen leggen tussen henzelf, hier, en de mensen daar. Ze nemen geen genoegen meer met een verhaal ‘over’ die mensen daar. Zij geloven pas in eenheid als die gebaseerd is op contacten, op een netwerk, een web.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;De spin en Europa 1991
+<br>Het is januari 1991. Een groepje jongeren van het jeugdwerk van Doopsgezinden, Remonstranten en Vrijzinnige Hervormden kopen een kaart van Europa om een overzicht te krijgen van het Europa dat in 1992 &eacute;&eacute;n zou moeten zijn. Zij zoeken de uiterste randen af van de kaart, als een spin die zoekt waar ze haar eerste draden aan kan vastmaken om zo een web te kunnen beginnen. Ze willen een verbinding leggen tussen het leventje in Amsterdam en dat ‘ene’ Europa. En dat is niet alleen West-Europa. West tegen Oost lijkt hen een gedateerde eenheidsgedachte. Ze willen verbindingen leggen tussen henzelf, hier, en de mensen daar. Ze nemen geen genoegen meer met een verhaal ‘over’ die mensen daar. Zij geloven pas in eenheid als die gebaseerd is op contacten, op een netwerk, een web.
 
 Het wordt een reis langs Parijs, Rome, Boedapest, Kiev. Moskou, Warschau, Berlijn. –Zie het beeldfragment hiernaast, maar vooral de volledige versie uit het beeldarchief: &nbsp; &nbsp; &nbsp;1991 Eenheid is een woord van 7 letters.
 
@@ -38,5 +39,4 @@ Ervaringen zijn de pijlers van ons denken. Alles wat we lezen en horen funderen 
 Na deze reis in 1991, maar ook nu nog, 25 jaar later, anno 2016 kunnen we het iedereen aanbevelen: word spin.
 
 Met hartelijke groet,
-
-Dik
+<br>Dik
