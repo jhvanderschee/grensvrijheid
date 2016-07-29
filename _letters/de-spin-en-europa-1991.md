@@ -16,6 +16,10 @@ images:
     name: foto 2
     opacity: 0.7
     full-url:
+  - image:
+    name:
+    opacity:
+    full-url:
 ---
 
 
