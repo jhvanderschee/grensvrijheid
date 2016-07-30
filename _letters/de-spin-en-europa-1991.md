@@ -2,8 +2,8 @@
 title: De spin en Europa 1991
 image:
 videos:
-  - id:
-    name:
+  - id: kfiXe7k27zs
+    name: fragment Eenheid is een woord van 7 letters
     opacity: 0.5
     max-res: true
     full-url:
