@@ -5,7 +5,7 @@ videos:
   - id: kfiXe7k27zs
     name: fragment Eenheid is een woord van 7 letters
     opacity: 0.5
-    max-res: true
+    max-res: false
     full-url:
 images:
   - image: /uploads/lege schappen.jpg
